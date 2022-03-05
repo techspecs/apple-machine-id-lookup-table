@@ -1,6 +1,6 @@
 # Introduction
  
-This repository is a catalog of Apple device machine IDs. The machine IDs are used to identify specific Apple devices and can be used to determine the compatibility of software and hardware.
+This repository is a catalog of Apple machine IDs aka apple device codenames. The machine IDs are used to identify specific Apple devices and can be used to determine the compatibility of software and hardware.
  
 The table includes the device's machine ID, model, version and TechSpecs ID.
  
