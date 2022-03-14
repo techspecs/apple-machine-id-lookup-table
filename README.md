@@ -9,747 +9,257 @@ Use [TechSpecs Search](https://techspecs.io) or [TechSpecs API](https://develope
 
 ## iPhones
 
-|Model                                         |Version             |Machine ID                    |TechSpecs ID                                                                       |Storage|
-|:--------------------------------------------:|:------------------:|:----------------------------:|:---------------------------------------------------------------------------------:|:-----:|
-|                iPhone 1st gen                |       A1203        |          iphone1,1           |                   Search TechSpecs For --> iPhone 1st gen A1203                   | 16GB  |
-|                iPhone 1st gen                |       A1203        |          iphone1,1           |                   Search TechSpecs For --> iPhone 1st gen A1203                   |  4GB  |
-|                iPhone 1st gen                |       A1203        |          iphone1,1           |                   Search TechSpecs For --> iPhone 1st gen A1203                   |  8GB  |
-|                 iPhone A1203                 |       A1203        |          iphone1,1           |                    Search TechSpecs For --> iPhone A1203 A1203                    | 16GB  |
-|                 iPhone A1203                 |       A1203        |          iphone1,1           |                    Search TechSpecs For --> iPhone A1203 A1203                    |  4GB  |
-|                 iPhone A1203                 |       A1203        |          iphone1,1           |                    Search TechSpecs For --> iPhone A1203 A1203                    |  8GB  |
-|                  iPhone 3G                   |       A1241        |          iphone1,2           |                     Search TechSpecs For --> iPhone 3G A1241                      | 16GB  |
-|                  iPhone 3G                   |       A1241        |          iphone1,2           |                     Search TechSpecs For --> iPhone 3G A1241                      |  8GB  |
-|                  iPhone 3G                   |       A1324        |          iphone1,2           |                     Search TechSpecs For --> iPhone 3G A1324                      |  8GB  |
-|                   iPhone 8                   |       A1863        |          iphone10,1          |                      Search TechSpecs For --> iPhone 8 A1863                      | 128GB |
-|                   iPhone 8                   |       A1863        |          iphone10,1          |                      Search TechSpecs For --> iPhone 8 A1863                      | 256GB |
-|                   iPhone 8                   |       A1863        |          iphone10,1          |                      Search TechSpecs For --> iPhone 8 A1863                      | 64GB  |
-|                   iPhone 8                   |       A1906        |          iphone10,1          |                      Search TechSpecs For --> iPhone 8 A1906                      | 128GB |
-|                   iPhone 8                   |       A1906        |          iphone10,1          |                      Search TechSpecs For --> iPhone 8 A1906                      | 256GB |
-|                   iPhone 8                   |       A1906        |          iphone10,1          |                      Search TechSpecs For --> iPhone 8 A1906                      | 64GB  |
-|                   iPhone 8                   |       A1907        |          iphone10,1          |                      Search TechSpecs For --> iPhone 8 A1907                      | 128GB |
-|                   iPhone 8                   |       A1907        |          iphone10,1          |                      Search TechSpecs For --> iPhone 8 A1907                      | 256GB |
-|                   iPhone 8                   |       A1907        |          iphone10,1          |                      Search TechSpecs For --> iPhone 8 A1907                      | 64GB  |
-|                iPhone 8 Plus                 |       A1864        |          iphone10,2          |                   Search TechSpecs For --> iPhone 8 Plus A1864                    | 128GB |
-|                iPhone 8 Plus                 |       A1864        |          iphone10,2          |                   Search TechSpecs For --> iPhone 8 Plus A1864                    | 256GB |
-|                iPhone 8 Plus                 |       A1864        |          iphone10,2          |                   Search TechSpecs For --> iPhone 8 Plus A1864                    | 64GB  |
-|                iPhone 8 Plus                 |       A1898        |          iphone10,2          |                   Search TechSpecs For --> iPhone 8 Plus A1898                    | 128GB |
-|                iPhone 8 Plus                 |       A1898        |          iphone10,2          |                   Search TechSpecs For --> iPhone 8 Plus A1898                    | 256GB |
-|                iPhone 8 Plus                 |       A1898        |          iphone10,2          |                   Search TechSpecs For --> iPhone 8 Plus A1898                    | 64GB  |
-|                iPhone 8 Plus                 |       A1899        |          iphone10,2          |                   Search TechSpecs For --> iPhone 8 Plus A1899                    | 128GB |
-|                iPhone 8 Plus                 |       A1899        |          iphone10,2          |                   Search TechSpecs For --> iPhone 8 Plus A1899                    | 256GB |
-|                iPhone 8 Plus                 |       A1899        |          iphone10,2          |                   Search TechSpecs For --> iPhone 8 Plus A1899                    | 64GB  |
-|                   iPhone X                   |       A1865        |          iphone10,3          |                      Search TechSpecs For --> iPhone X A1865                      | 256GB |
-|                   iPhone X                   |       A1865        |          iphone10,3          |                      Search TechSpecs For --> iPhone X A1865                      | 64GB  |
-|                   iPhone X                   |       A1902        |          iphone10,3          |                      Search TechSpecs For --> iPhone X A1902                      | 256GB |
-|                   iPhone X                   |       A1902        |          iphone10,3          |                      Search TechSpecs For --> iPhone X A1902                      | 64GB  |
-|                   iPhone 8                   |       A1905        |          iphone10,4          |                      Search TechSpecs For --> iPhone 8 A1905                      | 128GB |
-|                   iPhone 8                   |       A1905        |          iphone10,4          |                      Search TechSpecs For --> iPhone 8 A1905                      | 256GB |
-|                   iPhone 8                   |       A1905        |          iphone10,4          |                      Search TechSpecs For --> iPhone 8 A1905                      | 64GB  |
-|                iPhone 8 Plus                 |       A1897        |          iphone10,5          |                   Search TechSpecs For --> iPhone 8 Plus A1897                    | 128GB |
-|                iPhone 8 Plus                 |       A1897        |          iphone10,5          |                   Search TechSpecs For --> iPhone 8 Plus A1897                    | 256GB |
-|                iPhone 8 Plus                 |       A1897        |          iphone10,5          |                   Search TechSpecs For --> iPhone 8 Plus A1897                    | 64GB  |
-|                   iPhone X                   |       A1901        |          iphone10,6          |                      Search TechSpecs For --> iPhone X A1901                      | 256GB |
-|                   iPhone X                   |       A1901        |          iphone10,6          |                      Search TechSpecs For --> iPhone X A1901                      | 64GB  |
-|                  iPhone Xs                   |       A1920        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A1920                      | 256GB |
-|                  iPhone Xs                   |       A1920        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A1920                      | 512GB |
-|                  iPhone Xs                   |       A1920        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A1920                      | 64GB  |
-|                  iPhone Xs                   |       A2097        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A2097                      | 256GB |
-|                  iPhone Xs                   |       A2097        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A2097                      | 512GB |
-|                  iPhone Xs                   |       A2097        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A2097                      | 64GB  |
-|                  iPhone Xs                   |       A2098        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A2098                      | 256GB |
-|                  iPhone Xs                   |       A2098        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A2098                      | 512GB |
-|                  iPhone Xs                   |       A2098        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A2098                      | 64GB  |
-|                  iPhone Xs                   |       A2099        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A2099                      | 64GB  |
-|                  iPhone Xs                   |       A2100        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A2100                      | 256GB |
-|                  iPhone Xs                   |       A2100        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A2100                      | 512GB |
-|                  iPhone Xs                   |       A2100        |          iphone11,2          |                     Search TechSpecs For --> iPhone Xs A2100                      | 64GB  |
-|                iPhone Xs Max                 |       A1921        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A1921                    | 256GB |
-|                iPhone Xs Max                 |       A1921        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A1921                    | 512GB |
-|                iPhone Xs Max                 |       A1921        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A1921                    | 64GB  |
-|                iPhone Xs Max                 |       A2101        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A2101                    | 256GB |
-|                iPhone Xs Max                 |       A2101        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A2101                    | 512GB |
-|                iPhone Xs Max                 |       A2101        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A2101                    | 64GB  |
-|                iPhone Xs Max                 |       A2102        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A2102                    | 256GB |
-|                iPhone Xs Max                 |       A2102        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A2102                    | 512GB |
-|                iPhone Xs Max                 |       A2102        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A2102                    | 64GB  |
-|                iPhone Xs Max                 |       A2104        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A2104                    | 256GB |
-|                iPhone Xs Max                 |       A2104        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A2104                    | 512GB |
-|                iPhone Xs Max                 |       A2104        |          iphone11,6          |                   Search TechSpecs For --> iPhone Xs Max A2104                    | 64GB  |
-|                  iPhone XR                   |       A1984        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A1984                      | 128GB |
-|                  iPhone XR                   |       A1984        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A1984                      | 256GB |
-|                  iPhone XR                   |       A1984        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A1984                      | 64GB  |
-|                  iPhone XR                   |       A2105        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A2105                      | 128GB |
-|                  iPhone XR                   |       A2105        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A2105                      | 256GB |
-|                  iPhone XR                   |       A2105        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A2105                      | 64GB  |
-|                  iPhone XR                   |       A2106        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A2106                      | 128GB |
-|                  iPhone XR                   |       A2106        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A2106                      | 256GB |
-|                  iPhone XR                   |       A2106        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A2106                      | 64GB  |
-|                  iPhone XR                   |       A2108        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A2108                      | 128GB |
-|                  iPhone XR                   |       A2108        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A2108                      | 256GB |
-|                  iPhone XR                   |       A2108        |          iphone11,8          |                     Search TechSpecs For --> iPhone XR A2108                      | 64GB  |
-|                  iPhone 11                   |       A2111        |          iphone12,1          |                     Search TechSpecs For: --> iPhone 11 A2111                     | 128GB |
-|                  iPhone 11                   |       A2111        |          iphone12,1          |                     Search TechSpecs For --> iPhone 11 A2111                      | 256GB |
-|                  iPhone 11                   |       A2111        |          iphone12,1          |                     Search TechSpecs For --> iPhone 11 A2111                      | 64GB  |
-|                  iPhone 11                   |       A2221        |          iphone12,1          |                     Search TechSpecs For --> iPhone 11 A2221                      | 128GB |
-|                  iPhone 11                   |       A2221        |          iphone12,1          |                     Search TechSpecs For --> iPhone 11 A2221                      | 256GB |
-|                  iPhone 11                   |       A2221        |          iphone12,1          |                     Search TechSpecs For --> iPhone 11 A2221                      | 64GB  |
-|                  iPhone 11                   |       A2221        |          iphone12,1          |                     Search TechSpecs For --> iPhone 11 A2221                      | 128GB |
-|                  iPhone 11                   |       A2221        |          iphone12,1          |                     Search TechSpecs For --> iPhone 11 A2221                      | 256GB |
-|                  iPhone 11                   |       A2221        |          iphone12,1          |                     Search TechSpecs For --> iPhone 11 A2221                      | 64GB  |
-|                  iPhone 11                   |       A2223        |          iphone12,1          |                     Search TechSpecs For --> iPhone 11 A2223                      | 128GB |
-|                  iPhone 11                   |       A2223        |          iphone12,1          |                     Search TechSpecs For --> iPhone 11 A2223                      | 256GB |
-|                  iPhone 11                   |       A2223        |          iphone12,1          |                     Search TechSpecs For --> iPhone 11 A2223                      | 64GB  |
-|                iPhone 11 Pro                 |       A2160        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2160                    | 256GB |
-|                iPhone 11 Pro                 |       A2160        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2160                    | 512GB |
-|                iPhone 11 Pro                 |       A2160        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2160                    | 64GB  |
-|                iPhone 11 Pro                 |       A2215        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2215                    | 256GB |
-|                iPhone 11 Pro                 |       A2215        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2215                    | 512GB |
-|                iPhone 11 Pro                 |       A2215        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2215                    | 64GB  |
-|                iPhone 11 Pro                 |       A2215        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2215                    | 256GB |
-|                iPhone 11 Pro                 |       A2215        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2215                    | 512GB |
-|                iPhone 11 Pro                 |       A2215        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2215                    | 64GB  |
-|                iPhone 11 Pro                 |       A2217        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2217                    | 256GB |
-|                iPhone 11 Pro                 |       A2217        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2217                    | 512GB |
-|                iPhone 11 Pro                 |       A2217        |          iphone12,3          |                   Search TechSpecs For --> iPhone 11 Pro A2217                    | 64GB  |
-|              iPhone 11 Pro Max               |       A2161        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2161                  | 256GB |
-|              iPhone 11 Pro Max               |       A2161        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2161                  | 512GB |
-|              iPhone 11 Pro Max               |       A2161        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2161                  | 64GB  |
-|              iPhone 11 Pro Max               |       A2218        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2218                  | 256GB |
-|              iPhone 11 Pro Max               |       A2218        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2218                  | 512GB |
-|              iPhone 11 Pro Max               |       A2218        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2218                  | 64GB  |
-|              iPhone 11 Pro Max               |       A2218        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2218                  | 256GB |
-|              iPhone 11 Pro Max               |       A2218        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2218                  | 512GB |
-|              iPhone 11 Pro Max               |       A2218        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2218                  | 64GB  |
-|              iPhone 11 Pro Max               |       A2220        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2220                  | 256GB |
-|              iPhone 11 Pro Max               |       A2220        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2220                  | 512GB |
-|              iPhone 11 Pro Max               |       A2220        |          iphone12,5          |                 Search TechSpecs For --> iPhone 11 Pro Max A2220                  | 64GB  |
-|                iPhone SE 2020                |       A2275        |          iphone12,8          |                   Search TechSpecs For --> iPhone SE 2020 A2275                   | 128GB |
-|                iPhone SE 2020                |       A2275        |          iphone12,8          |                   Search TechSpecs For --> iPhone SE 2020 A2275                   | 256GB |
-|                iPhone SE 2020                |       A2275        |          iphone12,8          |                   Search TechSpecs For --> iPhone SE 2020 A2275                   | 64GB  |
-|                iPhone SE 2020                |       A2296        |          iphone12,8          |                   Search TechSpecs For --> iPhone SE 2020 A2296                   | 128GB |
-|                iPhone SE 2020                |       A2296        |          iphone12,8          |                   Search TechSpecs For --> iPhone SE 2020 A2296                   | 256GB |
-|                iPhone SE 2020                |       A2296        |          iphone12,8          |                   Search TechSpecs For --> iPhone SE 2020 A2296                   | 64GB  |
-|     iPhone SE 2020 2nd generation (2020)     |       A2298        |          iphone12,8          |        Search TechSpecs For --> iPhone SE 2020 2nd generation (2020) A2298        | 128GB |
-|                iPhone SE 2020                |       A2298        |          iphone12,8          |                   Search TechSpecs For --> iPhone SE 2020 A2298                   | 256GB |
-|                iPhone SE 2020                |       A2298        |          iphone12,8          |                   Search TechSpecs For --> iPhone SE 2020 A2298                   | 64GB  |
-|              iPhone 12 Mini 5G               |       A2398        |          iphone13,1          |                 Search TechSpecs For --> iPhone 12 Mini 5G A2398                  | 128GB |
-|              iPhone 12 Mini 5G               |       A2398        |          iphone13,1          |                 Search TechSpecs For --> iPhone 12 Mini 5G A2398                  | 256GB |
-|              iPhone 12 Mini 5G               |       A2398        |          iphone13,1          |                 Search TechSpecs For --> iPhone 12 Mini 5G A2398                  | 64GB  |
-|              iPhone 12 Mini 5G               |       A2399        |          iphone13,1          |                 Search TechSpecs For --> iPhone 12 Mini 5G A2399                  | 128GB |
-|              iPhone 12 Mini 5G               |       A2399        |          iphone13,1          |                 Search TechSpecs For --> iPhone 12 Mini 5G A2399                  | 256GB |
-|              iPhone 12 Mini 5G               |       A2399        |          iphone13,1          |                 Search TechSpecs For --> iPhone 12 Mini 5G A2399                  | 64GB  |
-|              iPhone 12 mini 5G               |       A2400        |          iphone13,1          |                 Search TechSpecs For --> iPhone 12 mini 5G A2400                  | 128GB |
-|              iPhone 12 mini 5G               |       A2400        |          iphone13,1          |                 Search TechSpecs For --> iPhone 12 mini 5G A2400                  | 256GB |
-|              iPhone 12 mini 5G               |       A2400        |          iphone13,1          |                 Search TechSpecs For --> iPhone 12 mini 5G A2400                  | 64GB  |
-|                iPhone 12 Mini                |       A2176        |          iphone13,1          |                   Search TechSpecs For --> iPhone 12 Mini A2176                   | 128GB |
-|                iPhone 12 Mini                |       A2176        |          iphone13,1          |                   Search TechSpecs For --> iPhone 12 Mini A2176                   | 256GB |
-|                iPhone 12 Mini                |       A2176        |          iphone13,1          |                   Search TechSpecs For --> iPhone 12 Mini A2176                   | 64GB  |
-|                 iPhone 12 5G                 |       A2402        |          iphone13,2          |                    Search TechSpecs For --> iPhone 12 5G A2402                    | 128GB |
-|                 iPhone 12 5G                 |       A2402        |          iphone13,2          |                    Search TechSpecs For --> iPhone 12 5G A2402                    | 256GB |
-|                 iPhone 12 5G                 |       A2402        |          iphone13,2          |                    Search TechSpecs For --> iPhone 12 5G A2402                    | 64GB  |
-|                 iPhone 12 5G                 |       A2403        |          iphone13,2          |                    Search TechSpecs For --> iPhone 12 5G A2403                    | 128GB |
-|                 iPhone 12 5G                 |       A2403        |          iphone13,2          |                    Search TechSpecs For --> iPhone 12 5G A2403                    | 256GB |
-|                 iPhone 12 5G                 |       A2403        |          iphone13,2          |                    Search TechSpecs For --> iPhone 12 5G A2403                    | 64GB  |
-|                 iPhone 12 5G                 |       A2404        |          iphone13,2          |                    Search TechSpecs For --> iPhone 12 5G A2404                    | 128GB |
-|                 iPhone 12 5G                 |       A2404        |          iphone13,2          |                    Search TechSpecs For --> iPhone 12 5G A2404                    | 256GB |
-|                 iPhone 12 5G                 |       A2404        |          iphone13,2          |                    Search TechSpecs For --> iPhone 12 5G A2404                    | 64GB  |
-|                  iPhone 12                   |       A2172        |          iphone13,2          |                     Search TechSpecs For --> iPhone 12 A2172                      | 128GB |
-|                  iPhone 12                   |       A2172        |          iphone13,2          |                     Search TechSpecs For --> iPhone 12 A2172                      | 256GB |
-|                  iPhone 12                   |       A2172        |          iphone13,2          |                     Search TechSpecs For --> iPhone 12 A2172                      | 64GB  |
-|               iPhone 12 Pro 5G               |       A2406        |          iphone13,3          |                  Search TechSpecs For --> iPhone 12 Pro 5G A2406                  | 128GB |
-|               iPhone 12 Pro 5G               |       A2406        |          iphone13,3          |                  Search TechSpecs For --> iPhone 12 Pro 5G A2406                  | 256GB |
-|               iPhone 12 Pro 5G               |       A2406        |          iphone13,3          |                  Search TechSpecs For --> iPhone 12 Pro 5G A2406                  | 512GB |
-|               iPhone 12 Pro 5G               |       A2407        |          iphone13,3          |                  Search TechSpecs For --> iPhone 12 Pro 5G A2407                  | 128GB |
-|               iPhone 12 Pro 5G               |       A2407        |          iphone13,3          |                  Search TechSpecs For --> iPhone 12 Pro 5G A2407                  | 256GB |
-|               iPhone 12 Pro 5G               |       A2407        |          iphone13,3          |                  Search TechSpecs For --> iPhone 12 Pro 5G A2407                  | 512GB |
-|               iPhone 12 Pro 5G               |       A2408        |          iphone13,3          |                  Search TechSpecs For --> iPhone 12 Pro 5G A2408                  | 128GB |
-|               iPhone 12 Pro 5G               |       A2408        |          iphone13,3          |                  Search TechSpecs For --> iPhone 12 Pro 5G A2408                  | 256GB |
-|               iPhone 12 Pro 5G               |       A2408        |          iphone13,3          |                  Search TechSpecs For --> iPhone 12 Pro 5G A2408                  | 512GB |
-|                iPhone 12 Pro                 |       A2341        |          iphone13,3          |                   Search TechSpecs For --> iPhone 12 Pro A2341                    | 128GB |
-|                iPhone 12 Pro                 |       A2341        |          iphone13,3          |                   Search TechSpecs For --> iPhone 12 Pro A2341                    | 256GB |
-|                iPhone 12 Pro                 |       A2341        |          iphone13,3          |                   Search TechSpecs For --> iPhone 12 Pro A2341                    | 512GB |
-|             iPhone 12 Pro Max 5G             |       A2410        |          iphone13,4          |                Search TechSpecs For --> iPhone 12 Pro Max 5G A2410                | 128GB |
-|             iPhone 12 Pro Max 5G             |       A2410        |          iphone13,4          |                Search TechSpecs For --> iPhone 12 Pro Max 5G A2410                | 256GB |
-|             iPhone 12 Pro Max 5G             |       A2410        |          iphone13,4          |                Search TechSpecs For --> iPhone 12 Pro Max 5G A2410                | 512GB |
-|             iPhone 12 Pro Max 5G             |       A2411        |          iphone13,4          |                Search TechSpecs For --> iPhone 12 Pro Max 5G A2411                | 128GB |
-|             iPhone 12 Pro Max 5G             |       A2411        |          iphone13,4          |                Search TechSpecs For --> iPhone 12 Pro Max 5G A2411                | 256GB |
-|             iPhone 12 Pro Max 5G             |       A2411        |          iphone13,4          |                Search TechSpecs For --> iPhone 12 Pro Max 5G A2411                | 512GB |
-|             iPhone 12 Pro Max 5G             |       A2412        |          iphone13,4          |                Search TechSpecs For --> iPhone 12 Pro Max 5G A2412                | 128GB |
-|             iPhone 12 Pro Max 5G             |       A2412        |          iphone13,4          |                Search TechSpecs For --> iPhone 12 Pro Max 5G A2412                | 256GB |
-|             iPhone 12 Pro Max 5G             |       A2412        |          iphone13,4          |                Search TechSpecs For --> iPhone 12 Pro Max 5G A2412                | 512GB |
-|              iPhone 12 Pro Max               |       A2342        |          iphone13,4          |                 Search TechSpecs For --> iPhone 12 Pro Max A2342                  | 128GB |
-|              iPhone 12 Pro Max               |       A2342        |          iphone13,4          |                 Search TechSpecs For --> iPhone 12 Pro Max A2342                  | 256GB |
-|              iPhone 12 Pro Max               |       A2342        |          iphone13,4          |                 Search TechSpecs For --> iPhone 12 Pro Max A2342                  | 512GB |
-|               iPhone 13 Pro 5G               |       A2636        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2636                  | 128GB |
-|               iPhone 13 Pro 5G               |       A2636        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2636                  |  1TB  |
-|               iPhone 13 Pro 5G               |       A2636        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2636                  | 256GB |
-|               iPhone 13 Pro 5G               |       A2636        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2636                  | 512GB |
-|               iPhone 13 Pro 5G               |       A2638        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2638                  | 128GB |
-|               iPhone 13 Pro 5G               |       A2638        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2638                  |  1TB  |
-|               iPhone 13 Pro 5G               |       A2638        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2638                  | 256GB |
-|               iPhone 13 Pro 5G               |       A2638        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2638                  | 512GB |
-|               iPhone 13 Pro 5G               |       A2639        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2639                  | 128GB |
-|               iPhone 13 Pro 5G               |       A2639        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2639                  |  1TB  |
-|               iPhone 13 Pro 5G               |       A2639        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2639                  | 256GB |
-|               iPhone 13 Pro 5G               |       A2639        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2639                  | 512GB |
-|               iPhone 13 Pro 5G               |       A2640        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2640                  | 128GB |
-|               iPhone 13 Pro 5G               |       A2640        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2640                  |  1TB  |
-|               iPhone 13 Pro 5G               |       A2640        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2640                  | 256GB |
-|               iPhone 13 Pro 5G               |       A2640        |          iphone14,2          |                  Search TechSpecs For --> iPhone 13 Pro 5G A2640                  | 512GB |
-|                iPhone 13 Pro                 |       A2483        |          iphone14,2          |                   Search TechSpecs For --> iPhone 13 Pro A2483                    | 128GB |
-|                iPhone 13 Pro                 |       A2483        |          iphone14,2          |                   Search TechSpecs For --> iPhone 13 Pro A2483                    |  1TB  |
-|                iPhone 13 Pro                 |       A2483        |          iphone14,2          |                   Search TechSpecs For --> iPhone 13 Pro A2483                    | 256GB |
-|                iPhone 13 Pro                 |       A2483        |          iphone14,2          |                   Search TechSpecs For --> iPhone 13 Pro A2483                    | 512GB |
-|             iPhone 13 Pro Max 5G             |       A2641        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2641                | 128GB |
-|             iPhone 13 Pro Max 5G             |       A2641        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2641                |  1TB  |
-|             iPhone 13 Pro Max 5G             |       A2641        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2641                | 256GB |
-|             iPhone 13 Pro Max 5G             |       A2641        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2641                | 512GB |
-|             iPhone 13 Pro Max 5G             |       A2643        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2643                | 128GB |
-|             iPhone 13 Pro Max 5G             |       A2643        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2643                |  1TB  |
-|             iPhone 13 Pro Max 5G             |       A2643        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2643                | 256GB |
-|             iPhone 13 Pro Max 5G             |       A2643        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2643                | 512GB |
-|             iPhone 13 Pro Max 5G             |       A2643        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2643                | 512GB |
-|             iPhone 13 Pro Max 5G             |       A2644        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2644                | 128GB |
-|             iPhone 13 Pro Max 5G             |       A2644        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2644                |  1TB  |
-|             iPhone 13 Pro Max 5G             |       A2644        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2644                | 256GB |
-|             iPhone 13 Pro Max 5G             |       A2644        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2644                | 512GB |
-|             iPhone 13 Pro Max 5G             |       A2645        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2645                | 128GB |
-|             iPhone 13 Pro Max 5G             |       A2645        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2645                |  1TB  |
-|             iPhone 13 Pro Max 5G             |       A2645        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2645                | 256GB |
-|             iPhone 13 Pro Max 5G             |       A2645        |          iphone14,3          |                Search TechSpecs For --> iPhone 13 Pro Max 5G A2645                | 512GB |
-|              iPhone 13 Pro Max               |       A2484        |          iphone14,3          |                 Search TechSpecs For --> iPhone 13 Pro Max A2484                  | 128GB |
-|              iPhone 13 Pro Max               |       A2484        |          iphone14,3          |                 Search TechSpecs For --> iPhone 13 Pro Max A2484                  |  1TB  |
-|              iPhone 13 Pro Max               |       A2484        |          iphone14,3          |                 Search TechSpecs For --> iPhone 13 Pro Max A2484                  | 256GB |
-|              iPhone 13 Pro Max               |       A2484        |          iphone14,3          |                 Search TechSpecs For --> iPhone 13 Pro Max A2484                  | 512GB |
-|              iPhone 13 mini 5G               |       A2626        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2626                  | 128GB |
-|              iPhone 13 mini 5G               |       A2626        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2626                  | 256GB |
-|              iPhone 13 mini 5G               |       A2626        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2626                  | 512GB |
-|              iPhone 13 mini 5G               |       A2628        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2628                  | 128GB |
-|              iPhone 13 mini 5G               |       A2628        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2628                  | 256GB |
-|              iPhone 13 mini 5G               |       A2628        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2628                  | 512GB |
-|              iPhone 13 mini 5G               |       A2629        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2629                  | 128GB |
-|              iPhone 13 mini 5G               |       A2629        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2629                  | 256GB |
-|              iPhone 13 mini 5G               |       A2629        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2629                  | 512GB |
-|              iPhone 13 mini 5G               |       A2630        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2630                  | 128GB |
-|              iPhone 13 mini 5G               |       A2630        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2630                  | 256GB |
-|              iPhone 13 mini 5G               |       A2630        |          iphone14,4          |                 Search TechSpecs For --> iPhone 13 mini 5G A2630                  | 512GB |
-|                iPhone 13 mini                |       A2481        |          iphone14,4          |                   Search TechSpecs For --> iPhone 13 mini A2481                   | 128GB |
-|                iPhone 13 mini                |       A2481        |          iphone14,4          |                   Search TechSpecs For --> iPhone 13 mini A2481                   | 256GB |
-|                iPhone 13 mini                |       A2481        |          iphone14,4          |                   Search TechSpecs For --> iPhone 13 mini A2481                   | 512GB |
-|                 iPhone 13 5G                 |       A2631        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2631                    | 128GB |
-|                 iPhone 13 5G                 |       A2631        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2631                    | 256GB |
-|                 iPhone 13 5G                 |       A2631        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2631                    | 512GB |
-|                 iPhone 13 5G                 |       A2633        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2633                    | 128GB |
-|                 iPhone 13 5G                 |       A2633        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2633                    | 256GB |
-|                 iPhone 13 5G                 |       A2633        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2633                    | 512GB |
-|                 iPhone 13 5G                 |       A2634        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2634                    | 128GB |
-|                 iPhone 13 5G                 |       A2634        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2634                    | 256GB |
-|                 iPhone 13 5G                 |       A2634        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2634                    | 512GB |
-|                 iPhone 13 5G                 |       A2635        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2635                    | 128GB |
-|                 iPhone 13 5G                 |       A2635        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2635                    | 256GB |
-|                 iPhone 13 5G                 |       A2635        |          iphone14,5          |                    Search TechSpecs For --> iPhone 13 5G A2635                    | 512GB |
-|                  iPhone 13                   |       A2482        |          iphone14,5          |                     Search TechSpecs For --> iPhone 13 A2482                      | 128GB |
-|                  iPhone 13                   |       A2482        |          iphone14,5          |                     Search TechSpecs For --> iPhone 13 A2482                      | 256GB |
-|                  iPhone 13                   |       A2482        |          iphone14,5          |                     Search TechSpecs For --> iPhone 13 A2482                      | 512GB |
-|                  iPhone 3GS                  |       A1303        |          iphone2,1           |                     Search TechSpecs For --> iPhone 3GS A1303                     | 16GB  |
-|                  iPhone 3GS                  |       A1303        |          iphone2,1           |                     Search TechSpecs For --> iPhone 3GS A1303                     | 32GB  |
-|                  iPhone 3GS                  |       A1303        |          iphone2,1           |                     Search TechSpecs For --> iPhone 3GS A1303                     |  8GB  |
-|                  iPhone 3GS                  |       A1325        |          iphone2,1           |                     Search TechSpecs For --> iPhone 3GS A1325                     | 16GB  |
-|                  iPhone 3GS                  |       A1325        |          iphone2,1           |                     Search TechSpecs For --> iPhone 3GS A1325                     | 32GB  |
-|                   iPhone 4                   |       A1332        |          iphone3,1           |                      Search TechSpecs For --> iPhone 4 A1332                      | 16GB  |
-|                   iPhone 4                   |       A1332        |          iphone3,1           |                      Search TechSpecs For --> iPhone 4 A1332                      | 32GB  |
-|                   iPhone 4                   |       A1332        |          iphone3,1           |                      Search TechSpecs For --> iPhone 4 A1332                      |  8GB  |
-|                   iPhone 4                   |       A1332        |          iphone3,2           |                      Search TechSpecs For --> iPhone 4 A1332                      |  8GB  |
-|                   iPhone 4                   |       A1332        |          iphone3,2           |                      Search TechSpecs For --> iPhone 4 A1332                      |  8GB  |
-|                iPhone 4 CDMA                 |       A1349        |          iphone3,3           |                   Search TechSpecs For --> iPhone 4 CDMA A1349                    | 16GB  |
-|                iPhone 4 CDMA                 |       A1349        |          iphone3,3           |                   Search TechSpecs For --> iPhone 4 CDMA A1349                    | 32GB  |
-|                iPhone 4 CDMA                 |       A1349        |          iphone3,3           |                   Search TechSpecs For --> iPhone 4 CDMA A1349                    |  8GB  |
-|                  iPhone 4S                   |       A1387        |          iphone4,1           |                     Search TechSpecs For --> iPhone 4S A1387                      | 16GB  |
-|                  iPhone 4S                   |       A1387        |          iphone4,1           |                     Search TechSpecs For --> iPhone 4S A1387                      | 32GB  |
-|                  iPhone 4S                   |       A1387        |          iphone4,1           |                     Search TechSpecs For --> iPhone 4S A1387                      | 64GB  |
-|                  iPhone 4S                   |       A1387        |          iphone4,1           |                     Search TechSpecs For --> iPhone 4S A1387                      |  8GB  |
-|                  iPhone 4S                   |       A1431        |          iphone4,1           |                     Search TechSpecs For --> iPhone 4S A1431                      | 16GB  |
-|                  iPhone 4S                   |       A1431        |          iphone4,1           |                     Search TechSpecs For --> iPhone 4S A1431                      | 32GB  |
-|                  iPhone 4S                   |       A1431        |          iphone4,1           |                     Search TechSpecs For --> iPhone 4S A1431                      | 64GB  |
-|                  iPhone 4S                   |       A1431        |          iphone4,1           |                     Search TechSpecs For --> iPhone 4S A1431                      |  8GB  |
-|                   iPhone 5                   |       A1428        |          iphone5,1           |                      Search TechSpecs For --> iPhone 5 A1428                      | 16GB  |
-|                   iPhone 5                   |       A1428        |          iphone5,1           |                      Search TechSpecs For --> iPhone 5 A1428                      | 32GB  |
-|                   iPhone 5                   |       A1428        |          iphone5,1           |                      Search TechSpecs For --> iPhone 5 A1428                      | 64GB  |
-|                   iPhone 5                   |       A1429        |          iphone5,1           |                      Search TechSpecs For --> iPhone 5 A1429                      | 16GB  |
-|                   iPhone 5                   |       A1429        |          iphone5,1           |                      Search TechSpecs For --> iPhone 5 A1429                      | 32GB  |
-|                   iPhone 5                   |       A1429        |          iphone5,1           |                      Search TechSpecs For --> iPhone 5 A1429                      | 64GB  |
-|                iPhone 5 CDMA                 |       A1429        |          iphone5,2           |                   Search TechSpecs For --> iPhone 5 CDMA A1429                    | 16GB  |
-|                iPhone 5 CDMA                 |       A1429        |          iphone5,2           |                   Search TechSpecs For --> iPhone 5 CDMA A1429                    | 32GB  |
-|                iPhone 5 CDMA                 |       A1429        |          iphone5,2           |                   Search TechSpecs For --> iPhone 5 CDMA A1429                    | 64GB  |
-|                iPhone 5 CDMA                 |       A1442        |          iphone5,2           |                   Search TechSpecs For --> iPhone 5 CDMA A1442                    | 16GB  |
-|                iPhone 5 CDMA                 |       A1442        |          iphone5,2           |                   Search TechSpecs For --> iPhone 5 CDMA A1442                    | 32GB  |
-|                iPhone 5 CDMA                 |       A1442        |          iphone5,2           |                   Search TechSpecs For --> iPhone 5 CDMA A1442                    | 64GB  |
-|                  iPhone 5c                   |       A1532        |          iphone5,3           |                     Search TechSpecs For --> iPhone 5c A1532                      | 16GB  |
-|                  iPhone 5c                   |       A1532        |          iphone5,3           |                     Search TechSpecs For --> iPhone 5c A1532                      | 32GB  |
-|                  iPhone 5c                   |       A1532        |          iphone5,3           |                     Search TechSpecs For --> iPhone 5c A1532                      |  8GB  |
-|                iPhone 5c CDMA                |       A1456        |          iphone5,3           |                   Search TechSpecs For --> iPhone 5c CDMA A1456                   | 16GB  |
-|                iPhone 5c CDMA                |       A1456        |          iphone5,3           |                   Search TechSpecs For --> iPhone 5c CDMA A1456                   | 32GB  |
-|                iPhone 5c CDMA                |       A1456        |          iphone5,3           |                   Search TechSpecs For --> iPhone 5c CDMA A1456                   |  8GB  |
-|                iPhone 5c CDMA                |       A1532        |          iphone5,3           |                   Search TechSpecs For --> iPhone 5c CDMA A1532                   | 16GB  |
-|                iPhone 5c CDMA                |       A1532        |          iphone5,3           |                   Search TechSpecs For --> iPhone 5c CDMA A1532                   | 32GB  |
-|                iPhone 5c CDMA                |       A1532        |          iphone5,3           |                   Search TechSpecs For --> iPhone 5c CDMA A1532                   |  8GB  |
-|                  iPhone 5c                   |       A1507        |          iphone5,4           |                     Search TechSpecs For --> iPhone 5c A1507                      | 16GB  |
-|                  iPhone 5c                   |       A1507        |          iphone5,4           |                     Search TechSpecs For --> iPhone 5c A1507                      | 32GB  |
-|                  iPhone 5c                   |       A1507        |          iphone5,4           |                     Search TechSpecs For --> iPhone 5c A1507                      |  8GB  |
-|                  iPhone 5c                   |       A1526        |          iphone5,4           |                     Search TechSpecs For --> iPhone 5c A1526                      | 16GB  |
-|                  iPhone 5c                   |       A1526        |          iphone5,4           |                     Search TechSpecs For --> iPhone 5c A1526                      | 32GB  |
-|                  iPhone 5c                   |       A1516        |          iphone5,4           |                     Search TechSpecs For --> iPhone 5c A1516                      | 16GB  |
-|                  iPhone 5c                   |       A1516        |          iphone5,4           |                     Search TechSpecs For --> iPhone 5c A1516                      | 32GB  |
-|                  iPhone 5c                   |       A1529        |          iphone5,4           |                     Search TechSpecs For --> iPhone 5c A1529                      | 16GB  |
-|                  iPhone 5c                   |       A1529        |          iphone5,4           |                     Search TechSpecs For --> iPhone 5c A1529                      | 32GB  |
-|                  iPhone 5c                   |       A1529        |          iphone5,4           |                     Search TechSpecs For --> iPhone 5c A1529                      |  8GB  |
-|                  iPhone 5s                   |       A1533        |          iphone6,1           |                     Search TechSpecs For --> iPhone 5s A1533                      | 16GB  |
-|                  iPhone 5s                   |       A1533        |          iphone6,1           |                     Search TechSpecs For --> iPhone 5s A1533                      | 32GB  |
-|                  iPhone 5s                   |       A1533        |          iphone6,1           |                     Search TechSpecs For --> iPhone 5s A1533                      | 64GB  |
-|                iPhone 5s CDMA                |       A1453        |          iphone6,1           |                   Search TechSpecs For --> iPhone 5s CDMA A1453                   | 16GB  |
-|                iPhone 5s CDMA                |       A1453        |          iphone6,1           |                   Search TechSpecs For --> iPhone 5s CDMA A1453                   | 32GB  |
-|                iPhone 5s CDMA                |       A1453        |          iphone6,1           |                   Search TechSpecs For --> iPhone 5s CDMA A1453                   | 64GB  |
-|                iPhone 5s CDMA                |       A1533        |          iphone6,1           |                   Search TechSpecs For --> iPhone 5s CDMA A1533                   | 16GB  |
-|                iPhone 5s CDMA                |       A1533        |          iphone6,1           |                   Search TechSpecs For --> iPhone 5s CDMA A1533                   | 32GB  |
-|                iPhone 5s CDMA                |       A1533        |          iphone6,1           |                   Search TechSpecs For --> iPhone 5s CDMA A1533                   | 64GB  |
-|                  iPhone 5s                   |       A1457        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1457                      | 16GB  |
-|                  iPhone 5s                   |       A1457        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1457                      | 32GB  |
-|                  iPhone 5s                   |       A1457        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1457                      | 64GB  |
-|                  iPhone 5s                   |       A1528        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1528                      | 16GB  |
-|                  iPhone 5s                   |       A1528        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1528                      | 32GB  |
-|                  iPhone 5s                   |       A1528        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1528                      | 64GB  |
-|                  iPhone 5s                   |       A1518        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1518                      | 16GB  |
-|                  iPhone 5s                   |       A1518        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1518                      | 32GB  |
-|                  iPhone 5s                   |       A1518        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1518                      | 64GB  |
-|                  iPhone 5s                   |       A1530        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1530                      | 16GB  |
-|                  iPhone 5s                   |       A1530        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1530                      | 32GB  |
-|                  iPhone 5s                   |       A1530        |          iphone6,2           |                     Search TechSpecs For --> iPhone 5s A1530                      | 64GB  |
-|              iPhone 6 Plus CDMA              |       A1522        |          iphone7,1           |                 Search TechSpecs For --> iPhone 6 Plus CDMA A1522                 | 128GB |
-|              iPhone 6 Plus CDMA              |       A1522        |          iphone7,1           |                 Search TechSpecs For --> iPhone 6 Plus CDMA A1522                 | 16GB  |
-|              iPhone 6 Plus CDMA              |       A1522        |          iphone7,1           |                 Search TechSpecs For --> iPhone 6 Plus CDMA A1522                 | 64GB  |
-|             iPhone 6 Plus LTE-A              |       A1522        |          iphone7,1           |                Search TechSpecs For --> iPhone 6 Plus LTE-A A1522                 | 128GB |
-|             iPhone 6 Plus LTE-A              |       A1522        |          iphone7,1           |                Search TechSpecs For --> iPhone 6 Plus LTE-A A1522                 | 16GB  |
-|             iPhone 6 Plus LTE-A              |       A1522        |          iphone7,1           |                Search TechSpecs For --> iPhone 6 Plus LTE-A A1522                 | 64GB  |
-|                iPhone 6 Plus                 |       A1524        |          iphone7,1           |                   Search TechSpecs For --> iPhone 6 Plus A1524                    | 128GB |
-|                iPhone 6 Plus                 |       A1524        |          iphone7,1           |                   Search TechSpecs For --> iPhone 6 Plus A1524                    | 16GB  |
-|                iPhone 6 Plus                 |       A1524        |          iphone7,1           |                   Search TechSpecs For --> iPhone 6 Plus A1524                    | 64GB  |
-|                iPhone 6 Plus                 |       A1593        |          iphone7,1           |                   Search TechSpecs For --> iPhone 6 Plus A1593                    | 128GB |
-|                iPhone 6 Plus                 |       A1593        |          iphone7,1           |                   Search TechSpecs For --> iPhone 6 Plus A1593                    | 16GB  |
-|                iPhone 6 Plus                 |       A1593        |          iphone7,1           |                   Search TechSpecs For --> iPhone 6 Plus A1593                    | 64GB  |
-|                   iPhone 6                   |       A1549        |          iphone7,2           |                      Search TechSpecs For --> iPhone 6 A1549                      | 32GB  |
-|                iPhone 6 CDMA                 |       A1549        |          iphone7,2           |                   Search TechSpecs For --> iPhone 6 CDMA A1549                    | 128GB |
-|                iPhone 6 CDMA                 |       A1549        |          iphone7,2           |                   Search TechSpecs For --> iPhone 6 CDMA A1549                    | 16GB  |
-|                iPhone 6 CDMA                 |       A1549        |          iphone7,2           |                   Search TechSpecs For --> iPhone 6 CDMA A1549                    | 64GB  |
-|                iPhone 6 LTE-A                |       A1549        |          iphone7,2           |                   Search TechSpecs For --> iPhone 6 LTE-A A1549                   | 128GB |
-|                iPhone 6 LTE-A                |       A1549        |          iphone7,2           |                   Search TechSpecs For --> iPhone 6 LTE-A A1549                   | 16GB  |
-|                iPhone 6 LTE-A                |       A1549        |          iphone7,2           |                   Search TechSpecs For --> iPhone 6 LTE-A A1549                   | 64GB  |
-|                   iPhone 6                   |       A1586        |          iphone7,2           |                      Search TechSpecs For --> iPhone 6 A1586                      | 128GB |
-|                   iPhone 6                   |       A1586        |          iphone7,2           |                      Search TechSpecs For --> iPhone 6 A1586                      | 16GB  |
-|                   iPhone 6                   |       A1586        |          iphone7,2           |                      Search TechSpecs For --> iPhone 6 A1586                      | 64GB  |
-|                   iPhone 6                   |       A1589        |          iphone7,2           |                      Search TechSpecs For --> iPhone 6 A1589                      | 128GB |
-|                   iPhone 6                   |       A1589        |          iphone7,2           |                      Search TechSpecs For --> iPhone 6 A1589                      | 16GB  |
-|                   iPhone 6                   |       A1589        |          iphone7,2           |                      Search TechSpecs For --> iPhone 6 A1589                      | 64GB  |
-|                  iPhone 6s                   |       A1633        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1633                      | 128GB |
-|                  iPhone 6s                   |       A1633        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1633                      | 16GB  |
-|                  iPhone 6s                   |       A1633        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1633                      | 32GB  |
-|                  iPhone 6s                   |       A1633        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1633                      | 64GB  |
-|                  iPhone 6s                   |       A1688        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1688                      | 128GB |
-|                  iPhone 6s                   |       A1688        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1688                      | 16GB  |
-|                  iPhone 6s                   |       A1688        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1688                      | 32GB  |
-|                  iPhone 6s                   |       A1688        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1688                      | 64GB  |
-|                  iPhone 6s                   |       A1691        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1691                      | 128GB |
-|                  iPhone 6s                   |       A1691        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1691                      | 16GB  |
-|                  iPhone 6s                   |       A1691        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1691                      | 32GB  |
-|                  iPhone 6s                   |       A1691        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1691                      | 64GB  |
-|                  iPhone 6s                   |       A1700        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1700                      | 128GB |
-|                  iPhone 6s                   |       A1700        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1700                      | 16GB  |
-|                  iPhone 6s                   |       A1700        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1700                      | 32GB  |
-|                  iPhone 6s                   |       A1700        |          iphone8,1           |                     Search TechSpecs For --> iPhone 6s A1700                      | 64GB  |
-|                iPhone 6s Plus                |       A1634        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1634                   | 128GB |
-|                iPhone 6s Plus                |       A1634        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1634                   | 16GB  |
-|                iPhone 6s Plus                |       A1634        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1634                   | 32GB  |
-|                iPhone 6s Plus                |       A1634        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1634                   | 64GB  |
-|                iPhone 6s Plus                |       A1687        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1687                   | 128GB |
-|                iPhone 6s Plus                |       A1687        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1687                   | 16GB  |
-|                iPhone 6s Plus                |       A1687        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1687                   | 32GB  |
-|                iPhone 6s Plus                |       A1687        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1687                   | 64GB  |
-|                iPhone 6s Plus                |       A1690        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1690                   | 128GB |
-|                iPhone 6s Plus                |       A1690        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1690                   | 16GB  |
-|                iPhone 6s Plus                |       A1690        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1690                   | 32GB  |
-|                iPhone 6s Plus                |       A1690        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1690                   | 64GB  |
-|                iPhone 6s Plus                |       A1699        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1699                   | 128GB |
-|                iPhone 6s Plus                |       A1699        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1699                   | 16GB  |
-|                iPhone 6s Plus                |       A1699        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1699                   | 32GB  |
-|                iPhone 6s Plus                |       A1699        |          iphone8,2           |                   Search TechSpecs For --> iPhone 6s Plus A1699                   | 64GB  |
-|                  iPhone SE                   |       A1662        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1662                      | 128GB |
-|                  iPhone SE                   |       A1662        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1662                      | 16GB  |
-|                  iPhone SE                   |       A1662        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1662                      | 32GB  |
-|                  iPhone SE                   |       A1662        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1662                      | 64GB  |
-|                  iPhone SE                   |       A1723        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1723                      | 128GB |
-|                  iPhone SE                   |       A1723        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1723                      | 16GB  |
-|                  iPhone SE                   |       A1723        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1723                      | 32GB  |
-|                  iPhone SE                   |       A1723        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1723                      | 64GB  |
-|                  iPhone SE                   |       A1724        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1724                      | 128GB |
-|                  iPhone SE                   |       A1724        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1724                      | 16GB  |
-|                  iPhone SE                   |       A1724        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1724                      | 32GB  |
-|                  iPhone SE                   |       A1724        |          iphone8,4           |                     Search TechSpecs For --> iPhone SE A1724                      | 64GB  |
-|                   iPhone 7                   |       A1660        |          iphone9,1           |                      Search TechSpecs For --> iPhone 7 A1660                      | 128GB |
-|                   iPhone 7                   |       A1660        |          iphone9,1           |                      Search TechSpecs For --> iPhone 7 A1660                      | 256GB |
-|                   iPhone 7                   |       A1660        |          iphone9,1           |                      Search TechSpecs For --> iPhone 7 A1660                      | 32GB  |
-|                   iPhone 7                   |       A1779        |          iphone9,1           |                      Search TechSpecs For --> iPhone 7 A1779                      | 128GB |
-|                   iPhone 7                   |       A1779        |          iphone9,1           |                      Search TechSpecs For --> iPhone 7 A1779                      | 256GB |
-|                   iPhone 7                   |       A1779        |          iphone9,1           |                      Search TechSpecs For --> iPhone 7 A1779                      | 32GB  |
-|                   iPhone 7                   |       A1780        |          iphone9,1           |                      Search TechSpecs For --> iPhone 7 A1780                      | 128GB |
-|                   iPhone 7                   |       A1780        |          iphone9,1           |                      Search TechSpecs For --> iPhone 7 A1780                      | 256GB |
-|                   iPhone 7                   |       A1780        |          iphone9,1           |                      Search TechSpecs For --> iPhone 7 A1780                      | 32GB  |
-|                iPhone 7 Plus                 |       A1661        |          iphone9,2           |                   Search TechSpecs For --> iPhone 7 Plus A1661                    | 128GB |
-|                iPhone 7 Plus                 |       A1661        |          iphone9,2           |                   Search TechSpecs For --> iPhone 7 Plus A1661                    | 256GB |
-|                iPhone 7 Plus                 |       A1661        |          iphone9,2           |                   Search TechSpecs For --> iPhone 7 Plus A1661                    | 32GB  |
-|                iPhone 7 Plus                 |       A1785        |          iphone9,2           |                   Search TechSpecs For --> iPhone 7 Plus A1785                    | 128GB |
-|                iPhone 7 Plus                 |       A1785        |          iphone9,2           |                   Search TechSpecs For --> iPhone 7 Plus A1785                    | 256GB |
-|                iPhone 7 Plus                 |       A1785        |          iphone9,2           |                   Search TechSpecs For --> iPhone 7 Plus A1785                    | 32GB  |
-|                iPhone 7 Plus                 |       A1786        |          iphone9,2           |                   Search TechSpecs For --> iPhone 7 Plus A1786                    | 128GB |
-|                iPhone 7 Plus                 |       A1786        |          iphone9,2           |                   Search TechSpecs For --> iPhone 7 Plus A1786                    | 256GB |
-|                iPhone 7 Plus                 |       A1786        |          iphone9,2           |                   Search TechSpecs For --> iPhone 7 Plus A1786                    | 32GB  |
-|                   iPhone 7                   |       A1778        |          iphone9,3           |                      Search TechSpecs For --> iPhone 7 A1778                      | 128GB |
-|                   iPhone 7                   |       A1778        |          iphone9,3           |                      Search TechSpecs For --> iPhone 7 A1778                      | 256GB |
-|                   iPhone 7                   |       A1778        |          iphone9,3           |                      Search TechSpecs For --> iPhone 7 A1778                      | 32GB  |
-|                iPhone 7 Plus                 |       A1784        |          iphone9,4           |                   Search TechSpecs For --> iPhone 7 Plus A1784                    | 128GB |
-|                iPhone 7 Plus                 |       A1784        |          iphone9,4           |                   Search TechSpecs For --> iPhone 7 Plus A1784                    | 256GB |
-|                iPhone 7 Plus                 |       A1784        |          iphone9,4           |                   Search TechSpecs For --> iPhone 7 Plus A1784                    | 32GB  |
-
+|Model (Marketing Name)                             |Version|Machine ID|TechSpecs ID            |
+|---------------------------------------------------|-------|----------|------------------------|
+|iPhone 11                                          |A2111  |iphone12,1|60d435288f19b751ae352f03|
+|iPhone 11                                          |A2111  |iphone12,1|60d435288f19b751ae352f03|
+|iPhone 11                                          |A2221  |iphone12,1|60d435328f19b751ae352f2f|
+|iPhone 11                                          |A2223  |iphone12,1|60d435cd8f19b751ae3531a9|
+|iPhone 11 Pro                                      |A2160  |iphone12,3|60d435b18f19b751ae353133|
+|iPhone 11 Pro                                      |A2215  |iphone12,3|60d435568f19b751ae352fc4|
+|iPhone 11 Pro                                      |A2217  |iphone12,3|60d434b38f19b751ae352d21|
+|iPhone 11 Pro Max                                  |A2161  |iphone12,5|60d435238f19b751ae352eee|
+|iPhone 11 Pro Max                                  |A2218  |iphone12,5|60d4355b8f19b751ae352fd9|
+|iPhone 11 Pro Max                                  |A2220  |iphone12,5|60d434b58f19b751ae352d2a|
+|iPhone 12 5G                                       |A2402  |iphone13,2|60d433348f19b751ae3526f9|
+|iPhone 12 5G                                       |A2403  |iphone13,2|60d433498f19b751ae35274f|
+|iPhone 12 5G                                       |A2404  |iphone13,2|60d433618f19b751ae3527b0|
+|iPhone 12 Mini 5G                                  |A2398  |iphone13,1|60d4335f8f19b751ae3527a8|
+|iPhone 12 Mini 5G                                  |A2399  |iphone13,1|60d433a18f19b751ae3528b5|
+|iPhone 12 mini 5G                                  |A2400  |iphone13,1|60d433628f19b751ae3527b7|
+|iPhone 12 Mini 5G UW                               |A2176  |iphone13,1|60d433598f19b751ae35278f|
+|iPhone 12 Pro 5G                                   |A2406  |iphone13,3|60d433338f19b751ae3526f6|
+|iPhone 12 Pro 5G                                   |A2407  |iphone13,3|60d433a18f19b751ae3528b6|
+|iPhone 12 Pro 5G                                   |A2408  |iphone13,3|60d433608f19b751ae3527ae|
+|iPhone 12 Pro Max 5G                               |A2410  |iphone13,4|60d4335e8f19b751ae3527a6|
+|iPhone 12 Pro Max 5G                               |A2411  |iphone13,4|60d433ad8f19b751ae3528e8|
+|iPhone 12 Pro Max 5G                               |A2412  |iphone13,4|60d4335f8f19b751ae3527ab|
+|iPhone 12 Pro Max                                  |A2342  |iphone13,4|60d433538f19b751ae352778|
+|iPhone 12 Pro                                      |A2341  |iphone13,3|60d4334f8f19b751ae352766|
+|iPhone 12                                          |A2172  |iphone13,2|60d433538f19b751ae352777|
+|iPhone 13 5G                                       |A2631  |iphone14,5|6186b047987cda5f88311983|
+|iPhone 13 5G                                       |A2633  |iphone14,5|6181c55058808868a066d19f|
+|iPhone 13 5G                                       |A2634  |iphone14,5|6181c55c58808868a066d1c6|
+|iPhone 13 5G                                       |A2635  |iphone14,5|61882982987cda5f8831629a|
+|iPhone 13 mini 5G                                  |A2626  |iphone14,4|6186b048987cda5f88311987|
+|iPhone 13 mini 5G                                  |A2628  |iphone14,4|6181c55558808868a066d1af|
+|iPhone 13 mini 5G                                  |A2629  |iphone14,4|6181c55d58808868a066d1ca|
+|iPhone 13 mini 5G                                  |A2630  |iphone14,4|61882983987cda5f8831629c|
+|iPhone 13 mini                                     |A2481  |iphone14,4|6181c55658808868a066d1b1|
+|iPhone 13 Pro 5G                                   |A2636  |iphone14,2|6186b046987cda5f88311982|
+|iPhone 13 Pro 5G                                   |A2638  |iphone14,2|6181c54c58808868a066d191|
+|iPhone 13 Pro 5G                                   |A2639  |iphone14,2|6181c55b58808868a066d1c1|
+|iPhone 13 Pro 5G                                   |A2640  |iphone14,2|61882981987cda5f88316296|
+|iPhone 13 Pro Max 5G                               |A2641  |iphone14,3|6186b045987cda5f8831197f|
+|iPhone 13 Pro Max 5G                               |A2643  |iphone14,3|6173051858808868a06688bf|
+|iPhone 13 Pro Max 5G                               |A2644  |iphone14,3|6181c55758808868a066d1b7|
+|iPhone 13 Pro Max 5G                               |A2645  |iphone14,3|6188297f987cda5f88316292|
+|iPhone 13 Pro Max                                  |A2484  |iphone14,3|6181c54c58808868a066d192|
+|iPhone 13 Pro                                      |A2483  |iphone14,2|6181c54e58808868a066d197|
+|iPhone 13                                          |A2482  |iphone14,5|6181c55158808868a066d1a3|
+|iPhone 1st gen                                     |A1203  |iphone1,1 |60d4417d8f19b751ae355fc3|
+|iPhone 3G                                          |A1241  |iphone1,2 |60d4411f8f19b751ae355e5b|
+|iPhone 3G                                          |A1324  |iphone1,2 |60d43f3e8f19b751ae355723|
+|iPhone 3GS                                         |A1303  |iphone2,1 |60d440b98f19b751ae355cd5|
+|iPhone 3GS                                         |A1325  |iphone2,1 |60d43f3a8f19b751ae355714|
+|iPhone 4                                           |A1332  |iphone3,1 |60d440608f19b751ae355b7f|
+|iPhone 4                                           |A1332  |iphone3,2 |60d440608f19b751ae355b7f|
+|iPhone 4 CDMA                                      |A1349  |iphone3,3 |60d4404a8f19b751ae355b2a|
+|iPhone 4S                                          |A1387  |iphone4,1 |60d43e4a8f19b751ae35536e|
+|iPhone 4S                                          |A1431  |iphone4,1 |60d43e4a8f19b751ae355371|
+|iPhone 5                                           |A1428  |iphone5,1 |60d43f448f19b751ae355738|
+|iPhone 5                                           |A1429  |iphone5,1 |60d43e7b8f19b751ae35542d|
+|iPhone 5 CDMA                                      |A1429  |iphone5,2 |60d43f478f19b751ae355746|
+|iPhone 5 CDMA                                      |A1442  |iphone5,2 |60d43f3c8f19b751ae35571a|
+|iPhone 5c                                          |A1507  |iphone5,4 |60d43e648f19b751ae3553d3|
+|iPhone 5c                                          |A1532  |iphone5,3 |60d43e768f19b751ae35541c|
+|iPhone 5c CDMA                                     |A1456  |iphone5,3 |60d43e5e8f19b751ae3553bc|
+|iPhone 5c CDMA                                     |A1532  |iphone5,3 |60d43e4f8f19b751ae355383|
+|iPhone 5c                                          |A1526  |iphone5,4 |60d43e4e8f19b751ae35537f|
+|iPhone 5c                                          |A1516  |iphone5,4 |60d43e318f19b751ae35530d|
+|iPhone 5c                                          |A1529  |iphone5,4 |60d43e4e8f19b751ae355380|
+|iPhone 5s                                          |A1457  |iphone6,2 |60d43e698f19b751ae3553e9|
+|iPhone 5s                                          |A1533  |iphone6,1 |60d43e768f19b751ae35541a|
+|iPhone 5s CDMA                                     |A1453  |iphone6,1 |60d43e648f19b751ae3553d6|
+|iPhone 5s CDMA                                     |A1533  |iphone6,1 |60d43e728f19b751ae355409|
+|iPhone 5s                                          |A1528  |iphone6,2 |60d43e4a8f19b751ae35536f|
+|iPhone 5s                                          |A1518  |iphone6,2 |60d43e318f19b751ae355310|
+|iPhone 5s                                          |A1530  |iphone6,2 |60d43e658f19b751ae3553d8|
+|iPhone 6                                           |A1549  |iphone7,2 |60d43cfc8f19b751ae354e5c|
+|iPhone 6 CDMA                                      |A1549  |iphone7,2 |60d43cf38f19b751ae354e37|
+|iPhone 6 LTE-A                                     |A1549  |iphone7,2 |60d43cfc8f19b751ae354e5c|
+|iPhone 6 Plus CDMA                                 |A1522  |iphone7,1 |60d43cf28f19b751ae354e34|
+|iPhone 6 Plus LTE-A                                |A1522  |iphone7,1 |60d43cfb8f19b751ae354e58|
+|iPhone 6 Plus                                      |A1524  |iphone7,1 |60d43cfd8f19b751ae354e5e|
+|iPhone 6 Plus                                      |A1593  |iphone7,1 |60d43cfd8f19b751ae354e61|
+|iPhone 6                                           |A1586  |iphone7,2 |60d43d2a8f19b751ae354f0e|
+|iPhone 6                                           |A1589  |iphone7,2 |60d43cf68f19b751ae354e43|
+|iPhone 6s                                          |A1633  |iphone8,1 |60d43b408f19b751ae354784|
+|iPhone 6s                                          |A1688  |iphone8,1 |60d439938f19b751ae3540df|
+|iPhone 6s                                          |A1691  |iphone8,1 |60d43adf8f19b751ae354607|
+|iPhone 6s                                          |A1700  |iphone8,1 |60d43b248f19b751ae354716|
+|iPhone 6s Plus                                     |A1634  |iphone8,2 |60d43b2d8f19b751ae35473c|
+|iPhone 6s Plus                                     |A1687  |iphone8,2 |60d43b278f19b751ae354724|
+|iPhone 6s Plus                                     |A1690  |iphone8,2 |60d43ae58f19b751ae35461d|
+|iPhone 6s Plus                                     |A1699  |iphone8,2 |60d439298f19b751ae353f3a|
+|iPhone 7                                           |A1660  |iphone9,1 |60d4399f8f19b751ae35410f|
+|iPhone 7                                           |A1778  |iphone9,3 |60d439a38f19b751ae354120|
+|iPhone 7                                           |A1779  |iphone9,1 |60d4393c8f19b751ae353f87|
+|iPhone 7                                           |A1780  |iphone9,1 |60d433328f19b751ae3526f1|
+|iPhone 7 Plus                                      |A1661  |iphone9,2 |60d439a28f19b751ae35411c|
+|iPhone 7 Plus                                      |A1784  |iphone9,4 |60d439a38f19b751ae354121|
+|iPhone 7 Plus                                      |A1785  |iphone9,2 |60d439a08f19b751ae354113|
+|iPhone 7 Plus                                      |A1786  |iphone9,2 |60d433638f19b751ae3527b8|
+|iPhone 8                                           |A1863  |iphone10,1|60d4380a8f19b751ae353ac0|
+|iPhone 8                                           |A1905  |iphone10,4|60d438578f19b751ae353bf4|
+|iPhone 8                                           |A1906  |iphone10,1|60d4381a8f19b751ae353afd|
+|iPhone 8                                           |A1907  |iphone10,1|60d433628f19b751ae3527b4|
+|iPhone 8 Plus                                      |A1864  |iphone10,2|60d438578f19b751ae353bf2|
+|iPhone 8 Plus                                      |A1897  |iphone10,5|60d4384b8f19b751ae353bc1|
+|iPhone 8 Plus                                      |A1898  |iphone10,2|60d438418f19b751ae353b98|
+|iPhone 8 Plus                                      |A1899  |iphone10,2|60d433618f19b751ae3527b3|
+|iPhone A1203                                       |A1203  |iphone1,1 |60d4417d8f19b751ae355fc3|
+|iPhone SE 2020                                     |A2275  |iphone12,8|60d436be8f19b751ae353581|
+|iPhone SE 2020                                     |A2296  |iphone12,8|60d4343f8f19b751ae352b45|
+|iPhone SE 2020 2nd generation (2020)               |A2298  |iphone12,8|60d434388f19b751ae352b2a|
+|iPhone SE 2020                                     |A2298  |iphone12,8|60d434368f19b751ae352b21|
+|iPhone SE                                          |A1662  |iphone8,4 |60d43a4f8f19b751ae3543ca|
+|iPhone SE                                          |A1723  |iphone8,4 |60d43a4f8f19b751ae3543cb|
+|iPhone SE                                          |A1724  |iphone8,4 |60d43a478f19b751ae3543aa|
+|iPhone X                                           |A1865  |iphone10,3|60d438558f19b751ae353bea|
+|iPhone X                                           |A1901  |iphone10,6|60d438058f19b751ae353aab|
+|iPhone X                                           |A1902  |iphone10,3|60d438418f19b751ae353b9a|
+|iPhone XR                                          |A1984  |iphone11,8|60d4369e8f19b751ae3534fe|
+|iPhone XR                                          |A2105  |iphone11,8|60d4369b8f19b751ae3534f0|
+|iPhone XR                                          |A2106  |iphone11,8|60d436678f19b751ae35341c|
+|iPhone XR                                          |A2108  |iphone11,8|60d4369e8f19b751ae3534ff|
+|iPhone Xs                                          |A1920  |iphone11,2|60d4369d8f19b751ae3534fa|
+|iPhone Xs                                          |A2097  |iphone11,2|60d4369c8f19b751ae3534f5|
+|iPhone Xs                                          |A2098  |iphone11,2|60d4369a8f19b751ae3534ee|
+|iPhone Xs                                          |A2099  |iphone11,2|60d436708f19b751ae353443|
+|iPhone Xs                                          |A2100  |iphone11,2|60d436768f19b751ae35345b|
+|iPhone Xs Max                                      |A1921  |iphone11,6|60d4369b8f19b751ae3534f1|
+|iPhone Xs Max                                      |A2101  |iphone11,6|60d436b98f19b751ae35356c|
+|iPhone Xs Max                                      |A2102  |iphone11,6|60d436a28f19b751ae353510|
+|iPhone Xs Max                                      |A2104  |iphone11,6|60d436768f19b751ae35345c|
 
 
 
 ## iPads
 
-|Model                                         |Version             |Machine ID                    |TechSpecs ID                                                                       |Storage|
-|:--------------------------------------------:|:------------------:|:----------------------------:|:---------------------------------------------------------------------------------:|:-----:|
-|                   iPad 3G                    |       A1337        |           ipad1,1            |                      Search TechSpecs For -->  iPad 3G A1337                      | 16GB  |
-|                   iPad 3G                    |       A1337        |           ipad1,1            |                      Search TechSpecs For -->  iPad 3G A1337                      | 32GB  |
-|                   iPad 3G                    |       A1337        |           ipad1,1            |                      Search TechSpecs For -->  iPad 3G A1337                      | 64GB  |
-|                  iPad WiFi                   |       A1219        |           ipad1,1            |                     Search TechSpecs For -->  iPad WiFi A1219                     | 16GB  |
-|                  iPad WiFi                   |       A1219        |           ipad1,1            |                     Search TechSpecs For -->  iPad WiFi A1219                     | 32GB  |
-|                  iPad WiFi                   |       A1219        |           ipad1,1            |                     Search TechSpecs For -->  iPad WiFi A1219                     | 64GB  |
-|    iPad Mini 5th generation WiFi ((2019)     |       A2133        |           ipad11,1           |       Search TechSpecs For -->  iPad Mini 5th generation WiFi ((2019) A2133       | 256GB |
-|    iPad Mini 5th generation WiFi ((2019)     |       A2133        |           ipad11,1           |       Search TechSpecs For -->  iPad Mini 5th generation WiFi ((2019) A2133       | 64GB  |
-|       iPad Mini 5th generation (2019)        |       A2124        |           ipad11,2           |          Search TechSpecs For -->  iPad Mini 5th generation (2019) A2124          | 256GB |
-|       iPad Mini 5th generation (2019)        |       A2124        |           ipad11,2           |          Search TechSpecs For -->  iPad Mini 5th generation (2019) A2124          | 64GB  |
-|       iPad Mini 5th generation (2019)        |       A2125        |           ipad11,2           |          Search TechSpecs For -->  iPad Mini 5th generation (2019) A2125          | 256GB |
-|       iPad Mini 5th generation (2019)        |       A2125        |           ipad11,2           |          Search TechSpecs For -->  iPad Mini 5th generation (2019) A2125          | 64GB  |
-|       iPad Mini 5th generation (2019)        |       A2126        |           ipad11,2           |          Search TechSpecs For -->  iPad Mini 5th generation (2019) A2126          | 256GB |
-|       iPad Mini 5th generation (2019)        |       A2126        |           ipad11,2           |          Search TechSpecs For -->  iPad Mini 5th generation (2019) A2126          | 64GB  |
-|     iPad Air 3rd generation WiFi (2019)      |       A2152        |           ipad11,3           |        Search TechSpecs For -->  iPad Air 3rd generation WiFi (2019) A2152        | 256GB |
-|     iPad Air 3rd generation WiFi (2019)      |       A2152        |           ipad11,3           |        Search TechSpecs For -->  iPad Air 3rd generation WiFi (2019) A2152        | 64GB  |
-|        iPad Air 3rd generation (2019)        |       A2123        |           ipad11,4           |          Search TechSpecs For -->  iPad Air 3rd generation (2019) A2123           | 256GB |
-|        iPad Air 3rd generation (2019)        |       A2123        |           ipad11,4           |          Search TechSpecs For -->  iPad Air 3rd generation (2019) A2123           | 64GB  |
-|        iPad Air 3rd generation (2019)        |       A2154        |           ipad11,4           |          Search TechSpecs For -->  iPad Air 3rd generation (2019) A2154           | 256GB |
-|        iPad Air 3rd generation (2019)        |       A2154        |           ipad11,4           |          Search TechSpecs For -->  iPad Air 3rd generation (2019) A2154           | 64GB  |
-|        iPad Air 3rd generation (2019)        |       A2153        |           ipad11,4           |          Search TechSpecs For -->  iPad Air 3rd generation (2019) A2153           | 256GB |
-|           iPad Air 3rd gen (2019)            |       A2153        |           ipad11,4           |              Search TechSpecs For -->  iPad Air 3rd gen (2019) A2153              | 64GB  |
-|  iPad 10.2-inch 8th generation WiFi ((2020)  |       A2270        |           ipad11,6           |    Search TechSpecs For -->  iPad 10.2-inch 8th generation WiFi ((2020) A2270     | 128GB |
-|  iPad 10.2-inch 8th generation WiFi ((2020)  |       A2270        |           ipad11,6           |    Search TechSpecs For -->  iPad 10.2-inch 8th generation WiFi ((2020) A2270     | 32GB  |
-|     iPad 10.2-inch 8th generation (2020)     |       A2428        |           ipad11,7           |       Search TechSpecs For -->  iPad 10.2-inch 8th generation (2020) A2428        | 128GB |
-|     iPad 10.2-inch 8th generation (2020)     |       A2428        |           ipad11,7           |       Search TechSpecs For -->  iPad 10.2-inch 8th generation (2020) A2428        | 32GB  |
-|     iPad 10.2-inch 8th generation (2020)     |       A2429        |           ipad11,7           |       Search TechSpecs For -->  iPad 10.2-inch 8th generation (2020) A2429        | 128GB |
-|     iPad 10.2-inch 8th generation (2020)     |       A2429        |           ipad11,7           |       Search TechSpecs For -->  iPad 10.2-inch 8th generation (2020) A2429        | 32GB  |
-|     iPad 10.2-inch 8th generation (2020)     |       A2430        |           ipad11,7           |       Search TechSpecs For -->  iPad 10.2-inch 8th generation (2020) A2430        | 128GB |
-|     iPad 10.2-inch 8th generation (2020)     |       A2430        |           ipad11,7           |       Search TechSpecs For -->  iPad 10.2-inch 8th generation (2020) A2430        | 32GB  |
-|  iPad 10.2-inch 9th generation WiFi ((2021)  |       A2602        |           ipad12,1           |    Search TechSpecs For -->  iPad 10.2-inch 9th generation WiFi ((2021) A2602     | 256GB |
-|  iPad 10.2-inch 9th generation WiFi ((2021)  |       A2602        |           ipad12,1           |    Search TechSpecs For -->  iPad 10.2-inch 9th generation WiFi ((2021) A2602     | 64GB  |
-|     iPad 10.2-inch 9th generation (2021)     |       A2603        |           ipad12,2           |       Search TechSpecs For -->  iPad 10.2-inch 9th generation (2021) A2603        | 256GB |
-|     iPad 10.2-inch 9th generation (2021)     |       A2603        |           ipad12,2           |       Search TechSpecs For -->  iPad 10.2-inch 9th generation (2021) A2603        | 64GB  |
-|     iPad 10.2-inch 9th generation (2021)     |       A2604        |           ipad12,2           |       Search TechSpecs For -->  iPad 10.2-inch 9th generation (2021) A2604        | 256GB |
-|     iPad 10.2-inch 9th generation (2021)     |       A2604        |           ipad12,2           |       Search TechSpecs For -->  iPad 10.2-inch 9th generation (2021) A2604        | 64GB  |
-|     iPad 10.2-inch 9th generation (2021)     |       A2605        |           ipad12,2           |       Search TechSpecs For -->  iPad 10.2-inch 9th generation (2021) A2605        | 256GB |
-|     iPad 10.2-inch 9th generation (2021)     |       A2605        |           ipad12,2           |       Search TechSpecs For -->  iPad 10.2-inch 9th generation (2021) A2605        | 64GB  |
-|     iPad Air 4th generation WiFi (2020)      |       A2316        |           ipad13,1           |        Search TechSpecs For -->  iPad Air 4th generation WiFi (2020) A2316        | 256GB |
-|     iPad Air 4th generation WiFi (2020)      |       A2316        |           ipad13,1           |        Search TechSpecs For -->  iPad Air 4th generation WiFi (2020) A2316        | 64GB  |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2461        |          ipad13,10           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2461    | 128GB |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2461        |          ipad13,10           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2461    |  1TB  |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2461        |          ipad13,10           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2461    | 256GB |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2461        |          ipad13,10           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2461    |  2TB  |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2461        |          ipad13,10           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2461    | 512GB |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2462        |          ipad13,11           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2462    | 128GB |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2462        |          ipad13,11           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2462    |  1TB  |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2462        |          ipad13,11           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2462    | 256GB |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2462        |          ipad13,11           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2462    |  2TB  |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2462        |          ipad13,11           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2462    | 512GB |
-|        iPad Air 4th generation (2020)        |       A2324        |           ipad13,2           |          Search TechSpecs For -->  iPad Air 4th generation (2020) A2324           | 256GB |
-|        iPad Air 4th generation (2020)        |       A2324        |           ipad13,2           |          Search TechSpecs For -->  iPad Air 4th generation (2020) A2324           | 64GB  |
-|        iPad Air 4th generation (2020)        |       A2325        |           ipad13,2           |          Search TechSpecs For -->  iPad Air 4th generation (2020) A2325           | 256GB |
-|        iPad Air 4th generation (2020)        |       A2325        |           ipad13,2           |          Search TechSpecs For -->  iPad Air 4th generation (2020) A2325           | 64GB  |
-|        iPad Air 4th generation (2020)        |       A2072        |           ipad13,2           |          Search TechSpecs For -->  iPad Air 4th generation (2020) A2072           | 256GB |
-|        iPad Air 4th generation (2020)        |       A2072        |           ipad13,2           |          Search TechSpecs For -->  iPad Air 4th generation (2020) A2072           | 64GB  |
-| iPad Pro 11-inch 3rd generation WiFi ((2021) |       A2377        |           ipad13,4           |   Search TechSpecs For -->  iPad Pro 11-inch 3rd generation WiFi ((2021) A2377    | 128GB |
-| iPad Pro 11-inch 3rd generation WiFi ((2021) |       A2377        |           ipad13,4           |   Search TechSpecs For -->  iPad Pro 11-inch 3rd generation WiFi ((2021) A2377    |  1TB  |
-| iPad Pro 11-inch 3rd generation WiFi ((2021) |       A2377        |           ipad13,4           |   Search TechSpecs For -->  iPad Pro 11-inch 3rd generation WiFi ((2021) A2377    | 256GB |
-| iPad Pro 11-inch 3rd generation WiFi ((2021) |       A2377        |           ipad13,4           |   Search TechSpecs For -->  iPad Pro 11-inch 3rd generation WiFi ((2021) A2377    |  2TB  |
-| iPad Pro 11-inch 3rd generation WiFi ((2021) |       A2377        |           ipad13,4           |   Search TechSpecs For -->  iPad Pro 11-inch 3rd generation WiFi ((2021) A2377    | 512GB |
-|  iPad Pro 5G 11-inch 3rd generation (2021)   |       A2377        |           ipad13,4           |     Search TechSpecs For -->  iPad Pro 5G 11-inch 3rd generation (2021) A2377     |  1TB  |
-|    iPad Pro 11-inch 5th generation (2021)    |       A2301        |           ipad13,5           |      Search TechSpecs For -->  iPad Pro 11-inch 5th generation (2021) A2301       | 128GB |
-|    iPad Pro 11-inch 5th generation (2021)    |       A2301        |           ipad13,5           |      Search TechSpecs For -->  iPad Pro 11-inch 5th generation (2021) A2301       |  1TB  |
-|    iPad Pro 11-inch 5th generation (2021)    |       A2301        |           ipad13,5           |      Search TechSpecs For -->  iPad Pro 11-inch 5th generation (2021) A2301       | 256GB |
-|    iPad Pro 11-inch 5th generation (2021)    |       A2301        |           ipad13,5           |      Search TechSpecs For -->  iPad Pro 11-inch 5th generation (2021) A2301       |  2TB  |
-|    iPad Pro 11-inch 5th generation (2021)    |       A2301        |           ipad13,5           |      Search TechSpecs For -->  iPad Pro 11-inch 5th generation (2021) A2301       | 512GB |
-|  iPad Pro 5G 11-inch 3rd generation (2021)   |       A2459        |           ipad13,6           |     Search TechSpecs For -->  iPad Pro 5G 11-inch 3rd generation (2021) A2459     | 128GB |
-|  iPad Pro 5G 11-inch 3rd generation (2021)   |       A2459        |           ipad13,6           |     Search TechSpecs For -->  iPad Pro 5G 11-inch 3rd generation (2021) A2459     |  1TB  |
-|  iPad Pro 5G 11-inch 3rd generation (2021)   |       A2459        |           ipad13,6           |     Search TechSpecs For -->  iPad Pro 5G 11-inch 3rd generation (2021) A2459     | 256GB |
-|  iPad Pro 5G 11-inch 3rd generation (2021)   |       A2459        |           ipad13,6           |     Search TechSpecs For -->  iPad Pro 5G 11-inch 3rd generation (2021) A2459     |  2TB  |
-|  iPad Pro 5G 11-inch 3rd generation (2021)   |       A2459        |           ipad13,6           |     Search TechSpecs For -->  iPad Pro 5G 11-inch 3rd generation (2021) A2459     | 512GB |
-|  iPad Pro 5G 11-inch 3rd generation (2021)   |       A2460        |           ipad13,7           |     Search TechSpecs For -->  iPad Pro 5G 11-inch 3rd generation (2021) A2460     | 128GB |
-|  iPad Pro 5G 11-inch 3rd generation (2021)   |       A2460        |           ipad13,7           |     Search TechSpecs For -->  iPad Pro 5G 11-inch 3rd generation (2021) A2460     |  1TB  |
-|  iPad Pro 5G 11-inch 3rd generation (2021)   |       A2460        |           ipad13,7           |     Search TechSpecs For -->  iPad Pro 5G 11-inch 3rd generation (2021) A2460     | 256GB |
-|  iPad Pro 5G 11-inch 3rd generation (2021)   |       A2460        |           ipad13,7           |     Search TechSpecs For -->  iPad Pro 5G 11-inch 3rd generation (2021) A2460     |  2TB  |
-|  iPad Pro 5G 11-inch 3rd generation (2021)   |       A2460        |           ipad13,7           |     Search TechSpecs For -->  iPad Pro 5G 11-inch 3rd generation (2021) A2460     | 512GB |
-|iPad Pro 12.9-inch 5th generation WiFi ((2021)|       A2378        |           ipad13,8           |  Search TechSpecs For -->  iPad Pro 12.9-inch 5th generation WiFi ((2021) A2378   | 128GB |
-|iPad Pro 12.9-inch 5th generation WiFi ((2021)|       A2378        |           ipad13,8           |  Search TechSpecs For -->  iPad Pro 12.9-inch 5th generation WiFi ((2021) A2378   |  1TB  |
-|iPad Pro 12.9-inch 5th generation WiFi ((2021)|       A2378        |           ipad13,8           |  Search TechSpecs For -->  iPad Pro 12.9-inch 5th generation WiFi ((2021) A2378   | 256GB |
-|iPad Pro 12.9-inch 5th generation WiFi ((2021)|       A2378        |           ipad13,8           |  Search TechSpecs For -->  iPad Pro 12.9-inch 5th generation WiFi ((2021) A2378   |  2TB  |
-|iPad Pro 12.9-inch 5th generation WiFi ((2021)|       A2378        |           ipad13,8           |  Search TechSpecs For -->  iPad Pro 12.9-inch 5th generation WiFi ((2021) A2378   | 512GB |
-|iPad Pro 5G 12.9-inch 5th generation WiFi ((20|       A2378        |           ipad13,8           | Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation WiFi ((2021) A2378 |  2TB  |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2379        |           ipad13,9           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2379    |  1TB  |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2379        |           ipad13,9           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2379    |  1TB  |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2379        |           ipad13,9           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2379    | 128GB |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2379        |           ipad13,9           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2379    |  1TB  |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2379        |           ipad13,9           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2379    | 256GB |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2379        |           ipad13,9           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2379    |  2TB  |
-| iPad Pro 5G 12.9-inch 5th generation (2021)  |       A2379        |           ipad13,9           |    Search TechSpecs For -->  iPad Pro 5G 12.9-inch 5th generation (2021) A2379    | 512GB |
-|    iPad Mini 6th generation WiFi ((2021)     |       A2567        |           ipad14,1           |       Search TechSpecs For -->  iPad Mini 6th generation WiFi ((2021) A2567       | 256GB |
-|    iPad Mini 6th generation WiFi ((2021)     |       A2567        |           ipad14,1           |       Search TechSpecs For -->  iPad Mini 6th generation WiFi ((2021) A2567       | 64GB  |
-|      iPad Mini 5G 6th generation (2021)      |       A2568        |           ipad14,2           |        Search TechSpecs For -->  iPad Mini 5G 6th generation (2021) A2568         | 256GB |
-|      iPad Mini 5G 6th generation (2021)      |       A2568        |           ipad14,2           |        Search TechSpecs For -->  iPad Mini 5G 6th generation (2021) A2568         | 64GB  |
-|      iPad Mini 5G 6th generation (2021)      |       A2569        |           ipad14,2           |        Search TechSpecs For -->  iPad Mini 5G 6th generation (2021) A2569         | 256GB |
-|      iPad Mini 5G 6th generation (2021)      |       A2569        |           ipad14,2           |        Search TechSpecs For -->  iPad Mini 5G 6th generation (2021) A2569         | 64GB  |
-|                 iPad 2 WiFi                  |       A1395        |           ipad2,1            |                    Search TechSpecs For -->  iPad 2 WiFi A1395                    | 16GB  |
-|                 iPad 2 WiFi                  |       A1395        |           ipad2,1            |                    Search TechSpecs For -->  iPad 2 WiFi A1395                    | 32GB  |
-|                 iPad 2 WiFi                  |       A1395        |           ipad2,1            |                    Search TechSpecs For -->  iPad 2 WiFi A1395                    | 64GB  |
-|                  iPad 2 3G                   |       A1396        |           ipad2,2            |                     Search TechSpecs For -->  iPad 2 3G A1396                     | 16GB  |
-|                  iPad 2 3G                   |       A1396        |           ipad2,2            |                     Search TechSpecs For -->  iPad 2 3G A1396                     | 32GB  |
-|                  iPad 2 3G                   |       A1396        |           ipad2,2            |                     Search TechSpecs For -->  iPad 2 3G A1396                     | 64GB  |
-|                 iPad 2 CDMA                  |       A1397        |           ipad2,3            |                    Search TechSpecs For -->  iPad 2 CDMA A1397                    | 16GB  |
-|                 iPad 2 CDMA                  |       A1397        |           ipad2,3            |                    Search TechSpecs For -->  iPad 2 CDMA A1397                    | 32GB  |
-|                 iPad 2 CDMA                  |       A1397        |           ipad2,3            |                    Search TechSpecs For -->  iPad 2 CDMA A1397                    | 64GB  |
-|                 iPad 2 WiFi                  |       A1395        |           ipad2,4            |                    Search TechSpecs For -->  iPad 2 WiFi A1395                    | 16GB  |
-|               iPad Mini Wi-Fi                |       A1432        |           ipad2,5            |                  Search TechSpecs For -->  iPad Mini Wi-Fi A1432                  | 16GB  |
-|               iPad Mini Wi-Fi                |       A1432        |           ipad2,5            |                  Search TechSpecs For -->  iPad Mini Wi-Fi A1432                  | 32GB  |
-|               iPad Mini Wi-Fi                |       A1432        |           ipad2,5            |                  Search TechSpecs For -->  iPad Mini Wi-Fi A1432                  | 64GB  |
-|                  iPad Mini                   |       A1454        |           ipad2,6            |                     Search TechSpecs For -->  iPad Mini A1454                     | 16GB  |
-|                  iPad Mini                   |       A1454        |           ipad2,6            |                     Search TechSpecs For -->  iPad Mini A1454                     | 32GB  |
-|                  iPad Mini                   |       A1454        |           ipad2,6            |                     Search TechSpecs For -->  iPad Mini A1454                     | 64GB  |
-|                iPad Mini CDMA                |       A1455        |           ipad2,7            |                  Search TechSpecs For -->  iPad Mini CDMA A1455                   | 16GB  |
-|                iPad Mini CDMA                |       A1455        |           ipad2,7            |                  Search TechSpecs For -->  iPad Mini CDMA A1455                   | 32GB  |
-|                iPad Mini CDMA                |       A1455        |           ipad2,7            |                  Search TechSpecs For -->  iPad Mini CDMA A1455                   | 64GB  |
-|                 iPad 3 WiFi                  |       A1416        |           ipad3,1            |                    Search TechSpecs For -->  iPad 3 WiFi A1416                    | 16GB  |
-|                 iPad 3 WiFi                  |       A1416        |           ipad3,1            |                    Search TechSpecs For -->  iPad 3 WiFi A1416                    | 32GB  |
-|                 iPad 3 WiFi                  |       A1416        |           ipad3,1            |                    Search TechSpecs For -->  iPad 3 WiFi A1416                    | 64GB  |
-|                 iPad 3 CDMA                  |       A1403        |           ipad3,2            |                    Search TechSpecs For -->  iPad 3 CDMA A1403                    | 16GB  |
-|                 iPad 3 CDMA                  |       A1403        |           ipad3,2            |                    Search TechSpecs For -->  iPad 3 CDMA A1403                    | 32GB  |
-|                 iPad 3 CDMA                  |       A1403        |           ipad3,2            |                    Search TechSpecs For -->  iPad 3 CDMA A1403                    | 64GB  |
-|                iPad 3 4G LTE                 |       A1430        |           ipad3,3            |                   Search TechSpecs For -->  iPad 3 4G LTE A1430                   | 16GB  |
-|                iPad 3 4G LTE                 |       A1430        |           ipad3,3            |                   Search TechSpecs For -->  iPad 3 4G LTE A1430                   | 32GB  |
-|                iPad 3 4G LTE                 |       A1430        |           ipad3,3            |                   Search TechSpecs For -->  iPad 3 4G LTE A1430                   | 64GB  |
-|                 iPad 4 Wi-Fi                 |       A1458        |           ipad3,4            |                   Search TechSpecs For -->  iPad 4 Wi-Fi A1458                    | 128GB |
-|                 iPad 4 Wi-Fi                 |       A1458        |           ipad3,4            |                   Search TechSpecs For -->  iPad 4 Wi-Fi A1458                    | 16GB  |
-|                 iPad 4 Wi-Fi                 |       A1458        |           ipad3,4            |                   Search TechSpecs For -->  iPad 4 Wi-Fi A1458                    | 32GB  |
-|                 iPad 4 Wi-Fi                 |       A1458        |           ipad3,4            |                   Search TechSpecs For -->  iPad 4 Wi-Fi A1458                    | 64GB  |
-|                    iPad 4                    |       A1459        |           ipad3,5            |                      Search TechSpecs For -->  iPad 4 A1459                       | 128GB |
-|                    iPad 4                    |       A1459        |           ipad3,5            |                      Search TechSpecs For -->  iPad 4 A1459                       | 16GB  |
-|                    iPad 4                    |       A1459        |           ipad3,5            |                      Search TechSpecs For -->  iPad 4 A1459                       | 32GB  |
-|                    iPad 4                    |       A1459        |           ipad3,5            |                      Search TechSpecs For -->  iPad 4 A1459                       | 64GB  |
-|                 iPad 4 CDMA                  |       A1460        |           ipad3,6            |                    Search TechSpecs For -->  iPad 4 CDMA A1460                    | 128GB |
-|                 iPad 4 CDMA                  |       A1460        |           ipad3,6            |                    Search TechSpecs For -->  iPad 4 CDMA A1460                    | 16GB  |
-|                 iPad 4 CDMA                  |       A1460        |           ipad3,6            |                    Search TechSpecs For -->  iPad 4 CDMA A1460                    | 32GB  |
-|                 iPad 4 CDMA                  |       A1460        |           ipad3,6            |                    Search TechSpecs For -->  iPad 4 CDMA A1460                    | 64GB  |
-|                iPad Air WiFi                 |       A1474        |           ipad4,1            |                   Search TechSpecs For -->  iPad Air WiFi A1474                   | 128GB |
-|                iPad Air WiFi                 |       A1474        |           ipad4,1            |                   Search TechSpecs For -->  iPad Air WiFi A1474                   | 16GB  |
-|                iPad Air WiFi                 |       A1474        |           ipad4,1            |                   Search TechSpecs For -->  iPad Air WiFi A1474                   | 32GB  |
-|                iPad Air WiFi                 |       A1474        |           ipad4,1            |                   Search TechSpecs For -->  iPad Air WiFi A1474                   | 64GB  |
-|                iPad Air CDMA                 |       A1475        |           ipad4,2            |                   Search TechSpecs For -->  iPad Air CDMA A1475                   | 128GB |
-|                iPad Air CDMA                 |       A1475        |           ipad4,2            |                   Search TechSpecs For -->  iPad Air CDMA A1475                   | 16GB  |
-|                iPad Air CDMA                 |       A1475        |           ipad4,2            |                   Search TechSpecs For -->  iPad Air CDMA A1475                   | 32GB  |
-|                iPad Air CDMA                 |       A1475        |           ipad4,2            |                   Search TechSpecs For -->  iPad Air CDMA A1475                   | 64GB  |
-|                   iPad Air                   |       A1476        |           ipad4,3            |                     Search TechSpecs For -->  iPad Air A1476                      | 128GB |
-|                   iPad Air                   |       A1476        |           ipad4,3            |                     Search TechSpecs For -->  iPad Air A1476                      | 16GB  |
-|                   iPad Air                   |       A1476        |           ipad4,3            |                     Search TechSpecs For -->  iPad Air A1476                      | 32GB  |
-|                   iPad Air                   |       A1476        |           ipad4,3            |                     Search TechSpecs For -->  iPad Air A1476                      | 64GB  |
-|               iPad Mini 2 WiFi               |       A1489        |           ipad4,4            |                 Search TechSpecs For -->  iPad Mini 2 WiFi A1489                  | 128GB |
-|               iPad Mini 2 WiFi               |       A1489        |           ipad4,4            |                 Search TechSpecs For -->  iPad Mini 2 WiFi A1489                  | 16GB  |
-|               iPad Mini 2 WiFi               |       A1489        |           ipad4,4            |                 Search TechSpecs For -->  iPad Mini 2 WiFi A1489                  | 32GB  |
-|               iPad Mini 2 WiFi               |       A1489        |           ipad4,4            |                 Search TechSpecs For -->  iPad Mini 2 WiFi A1489                  | 64GB  |
-|               iPad Mini 2 CDMA               |       A1490        |           ipad4,5            |                 Search TechSpecs For -->  iPad Mini 2 CDMA A1490                  | 128GB |
-|               iPad Mini 2 CDMA               |       A1490        |           ipad4,5            |                 Search TechSpecs For -->  iPad Mini 2 CDMA A1490                  | 16GB  |
-|               iPad Mini 2 CDMA               |       A1490        |           ipad4,5            |                 Search TechSpecs For -->  iPad Mini 2 CDMA A1490                  | 32GB  |
-|               iPad Mini 2 CDMA               |       A1490        |           ipad4,5            |                 Search TechSpecs For -->  iPad Mini 2 CDMA A1490                  | 64GB  |
-|                 iPad Mini 2                  |       A1491        |           ipad4,6            |                    Search TechSpecs For -->  iPad Mini 2 A1491                    | 128GB |
-|                 iPad Mini 2                  |       A1491        |           ipad4,6            |                    Search TechSpecs For -->  iPad Mini 2 A1491                    | 16GB  |
-|                 iPad Mini 2                  |       A1491        |           ipad4,6            |                    Search TechSpecs For -->  iPad Mini 2 A1491                    | 32GB  |
-|                 iPad Mini 2                  |       A1491        |           ipad4,6            |                    Search TechSpecs For -->  iPad Mini 2 A1491                    | 64GB  |
-|               iPad Mini 3 WiFi               |       A1599        |           ipad4,7            |                 Search TechSpecs For -->  iPad Mini 3 WiFi A1599                  | 128GB |
-|               iPad Mini 3 WiFi               |       A1599        |           ipad4,7            |                 Search TechSpecs For -->  iPad Mini 3 WiFi A1599                  | 16GB  |
-|               iPad Mini 3 WiFi               |       A1599        |           ipad4,7            |                 Search TechSpecs For -->  iPad Mini 3 WiFi A1599                  | 64GB  |
-|               iPad Mini 3 CDMA               |       A1600        |           ipad4,8            |                 Search TechSpecs For -->  iPad Mini 3 CDMA A1600                  | 128GB |
-|               iPad Mini 3 CDMA               |       A1600        |           ipad4,8            |                 Search TechSpecs For -->  iPad Mini 3 CDMA A1600                  | 16GB  |
-|               iPad Mini 3 CDMA               |       A1600        |           ipad4,8            |                 Search TechSpecs For -->  iPad Mini 3 CDMA A1600                  | 64GB  |
-|                 iPad Mini 3                  |       A1601        |           ipad4,9            |                    Search TechSpecs For -->  iPad Mini 3 A1601                    | 128GB |
-|                 iPad Mini 3                  |       A1601        |           ipad4,9            |                    Search TechSpecs For -->  iPad Mini 3 A1601                    | 16GB  |
-|                 iPad Mini 3                  |       A1601        |           ipad4,9            |                    Search TechSpecs For -->  iPad Mini 3 A1601                    | 64GB  |
-|               iPad Mini 4 WiFi               |       A1538        |           ipad5,1            |                 Search TechSpecs For -->  iPad Mini 4 WiFi A1538                  | 128GB |
-|               iPad Mini 4 WiFi               |       A1538        |           ipad5,1            |                 Search TechSpecs For -->  iPad Mini 4 WiFi A1538                  | 16GB  |
-|               iPad Mini 4 WiFi               |       A1538        |           ipad5,1            |                 Search TechSpecs For -->  iPad Mini 4 WiFi A1538                  | 32GB  |
-|               iPad Mini 4 WiFi               |       A1538        |           ipad5,1            |                 Search TechSpecs For -->  iPad Mini 4 WiFi A1538                  | 64GB  |
-|                 iPad Mini 4                  |       A1550        |           ipad5,2            |                    Search TechSpecs For -->  iPad Mini 4 A1550                    | 128GB |
-|                 iPad Mini 4                  |       A1550        |           ipad5,2            |                    Search TechSpecs For -->  iPad Mini 4 A1550                    | 16GB  |
-|                 iPad Mini 4                  |       A1550        |           ipad5,2            |                    Search TechSpecs For -->  iPad Mini 4 A1550                    | 32GB  |
-|                 iPad Mini 4                  |       A1550        |           ipad5,2            |                    Search TechSpecs For -->  iPad Mini 4 A1550                    | 64GB  |
-|               iPad Air 2 WiFi                |       A1566        |           ipad5,3            |                  Search TechSpecs For -->  iPad Air 2 WiFi A1566                  | 128GB |
-|               iPad Air 2 WiFi                |       A1566        |           ipad5,3            |                  Search TechSpecs For -->  iPad Air 2 WiFi A1566                  | 16GB  |
-|               iPad Air 2 WiFi                |       A1566        |           ipad5,3            |                  Search TechSpecs For -->  iPad Air 2 WiFi A1566                  | 32GB  |
-|               iPad Air 2 WiFi                |       A1566        |           ipad5,3            |                  Search TechSpecs For -->  iPad Air 2 WiFi A1566                  | 64GB  |
-|                  iPad Air 2                  |       A1567        |           ipad5,4            |                    Search TechSpecs For -->  iPad Air 2 A1567                     | 128GB |
-|                  iPad Air 2                  |       A1567        |           ipad5,4            |                    Search TechSpecs For -->  iPad Air 2 A1567                     | 16GB  |
-|                  iPad Air 2                  |       A1567        |           ipad5,4            |                    Search TechSpecs For -->  iPad Air 2 A1567                     | 32GB  |
-|                  iPad Air 2                  |       A1567        |           ipad5,4            |                    Search TechSpecs For -->  iPad Air 2 A1567                     | 64GB  |
-|   iPad 9.7-inch 5th generation WiFi (2017)   |       A1822        |           ipad6,11           |     Search TechSpecs For -->  iPad 9.7-inch 5th generation WiFi (2017) A1822      | 128GB |
-|   iPad 9.7-inch 5th generation WiFi (2017)   |       A1822        |           ipad6,11           |     Search TechSpecs For -->  iPad 9.7-inch 5th generation WiFi (2017) A1822      | 32GB  |
-|     iPad 9.7-inch 5th generation (2017)      |       A1823        |           ipad6,12           |        Search TechSpecs For -->  iPad 9.7-inch 5th generation (2017) A1823        | 128GB |
-|     iPad 9.7-inch 5th generation (2017)      |       A1823        |           ipad6,12           |        Search TechSpecs For -->  iPad 9.7-inch 5th generation (2017) A1823        | 32GB  |
-|     iPad 9.7-inch 5th generation (2017)      |       A1823        |           ipad6,12           |        Search TechSpecs For -->  iPad 9.7-inch 5th generation (2017) A1823        | 128GB |
-|     iPad 9.7-inch 5th generation (2017)      |       A1823        |           ipad6,12           |        Search TechSpecs For -->  iPad 9.7-inch 5th generation (2017) A1823        | 32GB  |
-|            iPad Pro 9.7-inch WiFi            |       A1673        |           ipad6,3            |              Search TechSpecs For -->  iPad Pro 9.7-inch WiFi A1673               | 128GB |
-|            iPad Pro 9.7-inch WiFi            |       A1673        |           ipad6,3            |              Search TechSpecs For -->  iPad Pro 9.7-inch WiFi A1673               | 256GB |
-|            iPad Pro 9.7-inch WiFi            |       A1673        |           ipad6,3            |              Search TechSpecs For -->  iPad Pro 9.7-inch WiFi A1673               | 32GB  |
-|              iPad Pro 9.7-inch               |       A1674        |           ipad6,4            |                 Search TechSpecs For -->  iPad Pro 9.7-inch A1674                 | 128GB |
-|              iPad Pro 9.7-inch               |       A1674        |           ipad6,4            |                 Search TechSpecs For -->  iPad Pro 9.7-inch A1674                 | 256GB |
-|              iPad Pro 9.7-inch               |       A1675        |           ipad6,4            |                 Search TechSpecs For -->  iPad Pro 9.7-inch A1675                 | 32GB  |
-|           iPad Pro 12.9-inch WiFi            |       A1584        |           ipad6,7            |              Search TechSpecs For -->  iPad Pro 12.9-inch WiFi A1584              | 128GB |
-|           iPad Pro 12.9-inch WiFi            |       A1584        |           ipad6,7            |              Search TechSpecs For -->  iPad Pro 12.9-inch WiFi A1584              | 256GB |
-|           iPad Pro 12.9-inch WiFi            |       A1584        |           ipad6,7            |              Search TechSpecs For -->  iPad Pro 12.9-inch WiFi A1584              | 32GB  |
-|              iPad Pro 12.9-inch              |       A1652        |           ipad6,8            |                Search TechSpecs For -->  iPad Pro 12.9-inch A1652                 | 128GB |
-|              iPad Pro 12.9-inch              |       A1652        |           ipad6,8            |                Search TechSpecs For -->  iPad Pro 12.9-inch A1652                 | 256GB |
-|              iPad Pro 12.9-inch              |       A1652        |           ipad6,8            |                Search TechSpecs For -->  iPad Pro 12.9-inch A1652                 | 32GB  |
-|iPad Pro 12.9-inch 2nd generation WiFi ((2017)|       A1670        |           ipad7,1            |  Search TechSpecs For -->  iPad Pro 12.9-inch 2nd generation WiFi ((2017) A1670   | 256GB |
-|iPad Pro 12.9-inch 2nd generation WiFi ((2017)|       A1670        |           ipad7,1            |  Search TechSpecs For -->  iPad Pro 12.9-inch 2nd generation WiFi ((2017) A1670   | 512GB |
-|iPad Pro 12.9-inch 2nd generation WiFi ((2017)|       A1670        |           ipad7,1            |  Search TechSpecs For -->  iPad Pro 12.9-inch 2nd generation WiFi ((2017) A1670   | 64GB  |
-|  iPad 10.2-inch 7th generation WiFi (2019)   |       A2197        |           ipad7,11           |     Search TechSpecs For -->  iPad 10.2-inch 7th generation WiFi (2019) A2197     | 128GB |
-|  iPad 10.2-inch 7th generation WiFi ((2019)  |       A2197        |           ipad7,11           |    Search TechSpecs For -->  iPad 10.2-inch 7th generation WiFi ((2019) A2197     | 32GB  |
-|     iPad 10.2-inch 7th generation (2019)     |       A2198        |           ipad7,12           |       Search TechSpecs For -->  iPad 10.2-inch 7th generation (2019) A2198        | 128GB |
-|     iPad 10.2-inch 7th generation (2019)     |       A2198        |           ipad7,12           |       Search TechSpecs For -->  iPad 10.2-inch 7th generation (2019) A2198        | 32GB  |
-|     iPad 10.2-inch 7th generation (2019)     |       A2200        |           ipad7,12           |       Search TechSpecs For -->  iPad 10.2-inch 7th generation (2019) A2200        | 128GB |
-|     iPad 10.2-inch 7th generation (2019)     |       A2200        |           ipad7,12           |       Search TechSpecs For -->  iPad 10.2-inch 7th generation (2019) A2200        | 32GB  |
-|   iPad Pro 12.9-inch 2nd generation (2017)   |       A1671        |           ipad7,2            |     Search TechSpecs For -->  iPad Pro 12.9-inch 2nd generation (2017) A1671      | 256GB |
-|   iPad Pro 12.9-inch 2nd generation (2017)   |       A1671        |           ipad7,2            |     Search TechSpecs For -->  iPad Pro 12.9-inch 2nd generation (2017) A1671      | 512GB |
-|   iPad Pro 12.9-inch 2nd generation (2017)   |       A1671        |           ipad7,2            |     Search TechSpecs For -->  iPad Pro 12.9-inch 2nd generation (2017) A1671      | 64GB  |
-|   iPad Pro 12.9-inch 2nd generation (2017)   |       A1821        |           ipad7,2            |     Search TechSpecs For -->  iPad Pro 12.9-inch 2nd generation (2017) A1821      | 256GB |
-|   iPad Pro 12.9-inch 2nd generation (2017)   |       A1821        |           ipad7,2            |     Search TechSpecs For -->  iPad Pro 12.9-inch 2nd generation (2017) A1821      | 512GB |
-|   iPad Pro 12.9-inch 2nd generation (2017)   |       A1821        |           ipad7,2            |     Search TechSpecs For -->  iPad Pro 12.9-inch 2nd generation (2017) A1821      | 64GB  |
-|iPad Pro 10.5-inch 2017 2nd generation WiFi ((|       A1701        |           ipad7,3            |Search TechSpecs For -->  iPad Pro 10.5-inch 2017 2nd generation WiFi ((2017) A1701| 256GB |
-|iPad Pro 10.5-inch 2nd generation WiFi ((2017)|       A1701        |           ipad7,3            |  Search TechSpecs For -->  iPad Pro 10.5-inch 2nd generation WiFi ((2017) A1701   | 512GB |
-|iPad Pro 10.5-inch 2017 2nd generation WiFi ((|       A1701        |           ipad7,3            |Search TechSpecs For -->  iPad Pro 10.5-inch 2017 2nd generation WiFi ((2017) A1701| 64GB  |
-|   iPad Pro 10.5-inch 2nd generation (2017)   |       A1709        |           ipad7,4            |     Search TechSpecs For -->  iPad Pro 10.5-inch 2nd generation (2017) A1709      | 256GB |
-|   iPad Pro 10.5-inch 2nd generation (2017)   |       A1709        |           ipad7,4            |     Search TechSpecs For -->  iPad Pro 10.5-inch 2nd generation (2017) A1709      | 512GB |
-|   iPad Pro 10.5-inch 2nd generation (2017)   |       A1709        |           ipad7,4            |     Search TechSpecs For -->  iPad Pro 10.5-inch 2nd generation (2017) A1709      | 64GB  |
-|   iPad Pro 10.5-inch 2nd generation (2017)   |       A1852        |           ipad7,4            |     Search TechSpecs For -->  iPad Pro 10.5-inch 2nd generation (2017) A1852      | 256GB |
-|   iPad Pro 10.5-inch 2nd generation (2017)   |       A1852        |           ipad7,4            |     Search TechSpecs For -->  iPad Pro 10.5-inch 2nd generation (2017) A1852      | 512GB |
-|   iPad Pro 10.5-inch 2nd generation (2017)   |       A1852        |           ipad7,4            |     Search TechSpecs For -->  iPad Pro 10.5-inch 2nd generation (2017) A1852      | 64GB  |
-|  iPad 9.7-inch 6th generation WiFi ((2018)   |       A1893        |           ipad7,5            |     Search TechSpecs For -->  iPad 9.7-inch 6th generation WiFi ((2018) A1893     | 128GB |
-|  iPad 9.7-inch 6th generation WiFi ((2018)   |       A1893        |           ipad7,5            |     Search TechSpecs For -->  iPad 9.7-inch 6th generation WiFi ((2018) A1893     | 32GB  |
-|     iPad 9.7-inch 6th generation (2018)      |       A1954        |           ipad7,6            |        Search TechSpecs For -->  iPad 9.7-inch 6th generation (2018) A1954        | 128GB |
-|     iPad 9.7-inch 6th generation (2018)      |       A1954        |           ipad7,6            |        Search TechSpecs For -->  iPad 9.7-inch 6th generation (2018) A1954        | 32GB  |
-| iPad Pro 11-inch 1st generation WiFi ((2018) |       A1980        |           ipad8,1            |   Search TechSpecs For -->  iPad Pro 11-inch 1st generation WiFi ((2018) A1980    | 256GB |
-| iPad Pro 11-inch 1st generation WiFi ((2018) |       A1980        |           ipad8,1            |   Search TechSpecs For -->  iPad Pro 11-inch 1st generation WiFi ((2018) A1980    | 512GB |
-| iPad Pro 11-inch 1st generation WiFi ((2018) |       A1980        |           ipad8,1            |   Search TechSpecs For -->  iPad Pro 11-inch 1st generation WiFi ((2018) A1980    | 64GB  |
-| iPad Pro 11-inch 3rd generation WiFi ((2018) |       A1980        |           ipad8,1            |   Search TechSpecs For -->  iPad Pro 11-inch 3rd generation WiFi ((2018) A1980    | 256GB |
-| iPad Pro 11-inch 3rd generation WiFi ((2018) |       A1980        |           ipad8,1            |   Search TechSpecs For -->  iPad Pro 11-inch 3rd generation WiFi ((2018) A1980    | 512GB |
-| iPad Pro 11-inch 3rd generation WiFi ((2018) |       A1980        |           ipad8,1            |   Search TechSpecs For -->  iPad Pro 11-inch 3rd generation WiFi ((2018) A1980    | 64GB  |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2068        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2068       | 128GB |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2068        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2068       |  1TB  |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2068        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2068       | 256GB |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2068        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2068       | 512GB |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2230        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2230       | 128GB |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2230        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2230       |  1TB  |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2230        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2230       | 256GB |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2230        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2230       | 512GB |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2231        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2231       | 128GB |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2231        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2231       |  1TB  |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2231        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2231       | 256GB |
-|    iPad Pro 11-inch 2nd generation (2020)    |       A2231        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 2nd generation (2020) A2231       | 512GB |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2068        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2068       | 128GB |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2068        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2068       |  1TB  |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2068        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2068       | 256GB |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2068        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2068       | 512GB |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2230        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2230       | 128GB |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2230        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2230       |  1TB  |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2230        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2230       | 256GB |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2230        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2230       | 512GB |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2231        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2231       | 128GB |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2231        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2231       |  1TB  |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2231        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2231       | 256GB |
-|    iPad Pro 11-inch 4th generation (2020)    |       A2231        |           ipad8,10           |      Search TechSpecs For -->  iPad Pro 11-inch 4th generation (2020) A2231       | 512GB |
-|iPad Pro 12.9-inch 4th generation WiFi ((2020)|       A2229        |           ipad8,11           |  Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation WiFi ((2020) A2229   | 128GB |
-|iPad Pro 12.9-inch 4th generation WiFi ((2020)|       A2229        |           ipad8,11           |  Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation WiFi ((2020) A2229   |  1TB  |
-|iPad Pro 12.9-inch 4th generation WiFi ((2020)|       A2229        |           ipad8,11           |  Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation WiFi ((2020) A2229   | 256GB |
-|iPad Pro 12.9-inch 4th generation WiFi ((2020)|       A2229        |           ipad8,11           |  Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation WiFi ((2020) A2229   | 512GB |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2069        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2069      | 128GB |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2069        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2069      |  1TB  |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2069        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2069      | 256GB |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2069        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2069      | 512GB |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2232        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2232      | 128GB |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2232        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2232      |  1TB  |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2232        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2232      | 256GB |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2232        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2232      | 512GB |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2233        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2233      | 128GB |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2233        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2233      |  1TB  |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2233        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2233      | 256GB |
-|   iPad Pro 12.9-inch 4th generation (2020)   |       A2233        |           ipad8,12           |     Search TechSpecs For -->  iPad Pro 12.9-inch 4th generation (2020) A2233      | 512GB |
-| iPad Pro 11-inch 1st generation WiFi ((2018) |       A1980        |           ipad8,2            |   Search TechSpecs For -->  iPad Pro 11-inch 1st generation WiFi ((2018) A1980    |  1TB  |
-| iPad Pro 11-inch 3rd generation WiFi ((2018) |       A1980        |           ipad8,2            |   Search TechSpecs For -->  iPad Pro 11-inch 3rd generation WiFi ((2018) A1980    |  1TB  |
-|    iPad Pro 11-inch 1st generation (2018)    |       A1934        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A1934       | 256GB |
-|    iPad Pro 11-inch 1st generation (2018)    |       A1934        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A1934       | 512GB |
-|    iPad Pro 11-inch 1st generation (2018)    |       A1934        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A1934       | 64GB  |
-|    iPad Pro 11-inch 1st generation (2018)    |       A1979        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A1979       | 256GB |
-|    iPad Pro 11-inch 1st generation (2018)    |       A1979        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A1979       | 512GB |
-|    iPad Pro 11-inch 1st generation (2018)    |       A1979        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A1979       | 64GB  |
-|    iPad Pro 11-inch 1st generation (2018)    |       A2013        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A2013       | 256GB |
-|    iPad Pro 11-inch 1st generation (2018)    |       A2013        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A2013       | 512GB |
-|    iPad Pro 11-inch 1st generation (2018)    |       A2013        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A2013       | 64GB  |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A1934        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A1934       | 256GB |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A1934        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A1934       | 512GB |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A1934        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A1934       | 64GB  |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A1979        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A1979       | 256GB |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A1979        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A1979       | 512GB |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A1979        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A1979       | 64GB  |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A2013        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A2013       | 256GB |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A2013        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A2013       | 512GB |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A2013        |           ipad8,3            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A2013       | 64GB  |
-|    iPad Pro 11-inch 1st generation (2018)    |       A1934        |           ipad8,4            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A1934       |  1TB  |
-|    iPad Pro 11-inch 1st generation (2018)    |       A1979        |           ipad8,4            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A1979       |  1TB  |
-|    iPad Pro 11-inch 1st generation (2018)    |       A2013        |           ipad8,4            |      Search TechSpecs For -->  iPad Pro 11-inch 1st generation (2018) A2013       |  1TB  |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A1934        |           ipad8,4            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A1934       |  1TB  |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A1979        |           ipad8,4            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A1979       |  1TB  |
-|    iPad Pro 11-inch 3rd generation (2018)    |       A2013        |           ipad8,4            |      Search TechSpecs For -->  iPad Pro 11-inch 3rd generation (2018) A2013       |  1TB  |
-|iPad Pro 12.9-inch 3rd generation WiFi ((2018)|       A1876        |           ipad8,5            |  Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation WiFi ((2018) A1876   | 256GB |
-|iPad Pro 12.9-inch 3rd generation WiFi ((2018)|       A1876        |           ipad8,5            |  Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation WiFi ((2018) A1876   | 512GB |
-|iPad Pro 12.9-inch 3rd generation WiFi ((2018)|       A1876        |           ipad8,5            |  Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation WiFi ((2018) A1876   | 64GB  |
-|iPad Pro 12.9-inch 3rd generation WiFi ((2018)|       A1876        |           ipad8,6            |  Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation WiFi ((2018) A1876   |  1TB  |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A1895        |           ipad8,7            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A1895      | 256GB |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A1895        |           ipad8,7            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A1895      | 512GB |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A1895        |           ipad8,7            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A1895      | 64GB  |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A1983        |           ipad8,7            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A1983      | 256GB |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A1983        |           ipad8,7            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A1983      | 512GB |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A1983        |           ipad8,7            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A1983      | 64GB  |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A2014        |           ipad8,7            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A2014      | 256GB |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A2014        |           ipad8,7            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A2014      | 512GB |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A2014        |           ipad8,7            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A2014      | 64GB  |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A1895        |           ipad8,8            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A1895      |  1TB  |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A1983        |           ipad8,8            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A1983      |  1TB  |
-|   iPad Pro 12.9-inch 3rd generation (2018)   |       A2014        |           ipad8,8            |     Search TechSpecs For -->  iPad Pro 12.9-inch 3rd generation (2018) A2014      |  1TB  |
-| iPad Pro 11-inch 2nd generation WiFi ((2020) |       A2228        |           ipad8,9            |   Search TechSpecs For -->  iPad Pro 11-inch 2nd generation WiFi ((2020) A2228    | 128GB |
-| iPad Pro 11-inch 2nd generation WiFi ((2020) |       A2228        |           ipad8,9            |   Search TechSpecs For -->  iPad Pro 11-inch 2nd generation WiFi ((2020) A2228    |  1TB  |
-| iPad Pro 11-inch 2nd generation WiFi ((2020) |       A2228        |           ipad8,9            |   Search TechSpecs For -->  iPad Pro 11-inch 2nd generation WiFi ((2020) A2228    | 256GB |
-| iPad Pro 11-inch 2nd generation WiFi ((2020) |       A2228        |           ipad8,9            |   Search TechSpecs For -->  iPad Pro 11-inch 2nd generation WiFi ((2020) A2228    | 512GB |
-| iPad Pro 11-inch 4th generation WiFi ((2020) |       A2228        |           ipad8,9            |   Search TechSpecs For -->  iPad Pro 11-inch 4th generation WiFi ((2020) A2228    | 128GB |
-| iPad Pro 11-inch 4th generation WiFi ((2020) |       A2228        |           ipad8,9            |   Search TechSpecs For -->  iPad Pro 11-inch 4th generation WiFi ((2020) A2228    |  1TB  |
-| iPad Pro 11-inch 4th generation WiFi ((2020) |       A2228        |           ipad8,9            |   Search TechSpecs For -->  iPad Pro 11-inch 4th generation WiFi ((2020) A2228    | 256GB |
-| iPad Pro 11-inch 4th generation WiFi ((2020) |       A2228        |           ipad8,9            |   Search TechSpecs For -->  iPad Pro 11-inch 4th generation WiFi ((2020) A2228    | 512GB |
-|                                              |                    |                              |                                                                                   |       |
+|Model (Marketing Name)                             |Version|Machine ID|TechSpecs ID            |
+|---------------------------------------------------|-------|----------|------------------------|
+|iPad 10.2-inch 7th generation WiFi (2019)          |A2197  |ipad7,11  |60d442b68f19b751ae35645b|
+|iPad 10.2-inch 7th generation WiFi ((2019)         |A2197  |ipad7,11  |60d442b68f19b751ae35645b|
+|iPad 10.2-inch 7th generation (2019)               |A2198  |ipad7,12  |60d442b28f19b751ae35644d|
+|iPad 10.2-inch 7th generation (2019)               |A2200  |ipad7,12  |60d442b38f19b751ae356450|
+|iPad 10.2-inch 8th generation WiFi ((2020)         |A2270  |ipad11,6  |60d442948f19b751ae3563dc|
+|iPad 10.2-inch 8th generation (2020)               |A2428  |ipad11,7  |60d442958f19b751ae3563e1|
+|iPad 10.2-inch 8th generation (2020)               |A2429  |ipad11,7  |60d442958f19b751ae3563e2|
+|iPad 10.2-inch 8th generation (2020)               |A2430  |ipad11,7  |60d442928f19b751ae3563d7|
+|iPad 10.2-inch 9th generation WiFi ((2021)         |A2602  |ipad12,1  |61aaba9480e96642bc377457|
+|iPad 10.2-inch 9th generation (2021)               |A2603  |ipad12,2  |61aaba9480e96642bc377456|
+|iPad 10.2-inch 9th generation (2021)               |A2604  |ipad12,2  |61aaba9280e96642bc377451|
+|iPad 10.2-inch 9th generation (2021)               |A2605  |ipad12,2  |61aaba9380e96642bc377452|
+|iPad 2 3G                                          |A1396  |ipad2,2   |60d4444c8f19b751ae356a52|
+|iPad 2 CDMA                                        |A1397  |ipad2,3   |60d443ce8f19b751ae356878|
+|iPad 2 WiFi                                        |A1395  |ipad2,1   |60d443d98f19b751ae3568a5|
+|iPad 2 WiFi                                        |A1395  |ipad2,4   |60d443318f19b751ae35662d|
+|iPad 3 4G LTE                                      |A1430  |ipad3,3   |60d444278f19b751ae3569c9|
+|iPad 3 CDMA                                        |A1403  |ipad3,2   |60d443da8f19b751ae3568a6|
+|iPad 3 WiFi                                        |A1416  |ipad3,1   |60d444288f19b751ae3569cb|
+|iPad 3G                                            |A1337  |ipad1,1   |60d4445f8f19b751ae356a99|
+|iPad 4                                             |A1459  |ipad3,5   |60d444098f19b751ae356959|
+|iPad 4 CDMA                                        |A1460  |ipad3,6   |60d4440e8f19b751ae356969|
+|iPad 4 Wi-Fi                                       |A1458  |ipad3,4   |60d4440d8f19b751ae356968|
+|iPad 9.7-inch 5th generation WiFi (2017)           |A1822  |ipad6,11  |60d442fb8f19b751ae35655f|
+|iPad 9.7-inch 5th generation (2017)                |A1823  |ipad6,12  |60d442fb8f19b751ae35655e|
+|iPad 9.7-inch 6th generation WiFi ((2018)          |A1893  |ipad7,5   |60d442dc8f19b751ae3564e8|
+|iPad 9.7-inch 6th generation (2018)                |A1954  |ipad7,6   |60d442dc8f19b751ae3564eb|
+|iPad Air 2                                         |A1567  |ipad5,4   |60d4436f8f19b751ae356714|
+|iPad Air 2 WiFi                                    |A1566  |ipad5,3   |60d443708f19b751ae356718|
+|iPad Air 3rd generation (2019)                     |A2123  |ipad11,4  |60d442c28f19b751ae356488|
+|iPad Air 3rd generation (2019)                     |A2154  |ipad11,4  |60d442be8f19b751ae35647a|
+|iPad Air 3rd generation (2019)                     |A2153  |ipad11,4  |60d442c18f19b751ae356486|
+|iPad Air 3rd generation WiFi (2019)                |A2152  |ipad11,3  |60d442c18f19b751ae356484|
+|iPad Air 4th generation (2020)                     |A2324  |ipad13,2  |60d442938f19b751ae3563d8|
+|iPad Air 4th generation (2020)                     |A2325  |ipad13,2  |60d442928f19b751ae3563d5|
+|iPad Air 4th generation (2020)                     |A2072  |ipad13,2  |60d442928f19b751ae3563d6|
+|iPad Air 4th generation WiFi (2020)                |A2316  |ipad13,1  |60d442938f19b751ae3563da|
+|iPad Air CDMA                                      |A1475  |ipad4,2   |60d443c88f19b751ae356864|
+|iPad Air                                           |A1476  |ipad4,3   |60d443998f19b751ae3567b4|
+|iPad Air WiFi                                      |A1474  |ipad4,1   |60d443c98f19b751ae356867|
+|iPad Mini 2 CDMA                                   |A1490  |ipad4,5   |60d443c78f19b751ae35685f|
+|iPad Mini 2                                        |A1491  |ipad4,6   |60d4439e8f19b751ae3567c6|
+|iPad Mini 2 WiFi                                   |A1489  |ipad4,4   |60d443c48f19b751ae356854|
+|iPad Mini 3 CDMA                                   |A1600  |ipad4,8   |60d4436e8f19b751ae35670f|
+|iPad Mini 3                                        |A1601  |ipad4,9   |60d4436f8f19b751ae356715|
+|iPad Mini 3 WiFi                                   |A1599  |ipad4,7   |60d4436b8f19b751ae356704|
+|iPad Mini 4                                        |A1550  |ipad5,2   |60d443328f19b751ae356630|
+|iPad Mini 4 WiFi                                   |A1538  |ipad5,1   |60d443348f19b751ae356635|
+|iPad Mini 5G 6th generation (2021)                 |A2568  |ipad14,2  |61aaba9680e96642bc37745b|
+|iPad Mini 5G 6th generation (2021)                 |A2569  |ipad14,2  |61aaba9780e96642bc37745f|
+|iPad Mini 5th generation (2019)                    |A2124  |ipad11,2  |60d442c18f19b751ae356487|
+|iPad Mini 5th generation (2019)                    |A2125  |ipad11,2  |60d442d28f19b751ae3564c3|
+|iPad Mini 5th generation (2019)                    |A2126  |ipad11,2  |60d442c18f19b751ae356485|
+|iPad Mini 5th generation WiFi ((2019)              |A2133  |ipad11,1  |60d442c28f19b751ae356489|
+|iPad Mini 6th generation WiFi ((2021)              |A2567  |ipad14,1  |61aaba9780e96642bc377460|
+|iPad Mini                                          |A1454  |ipad2,6   |60d4440c8f19b751ae356963|
+|iPad Mini CDMA                                     |A1455  |ipad2,7   |60d444068f19b751ae35694d|
+|iPad Mini Wi-Fi                                    |A1432  |ipad2,5   |60d4440f8f19b751ae35696e|
+|iPad Pro 10.5-inch 2017 2nd generation WiFi ((2017)|A1701  |ipad7,3   |60d442f48f19b751ae356543|
+|iPad Pro 10.5-inch 2nd generation (2017)           |A1709  |ipad7,4   |60d443018f19b751ae356577|
+|iPad Pro 10.5-inch 2nd generation (2017)           |A1852  |ipad7,4   |60d442ce8f19b751ae3564b7|
+|iPad Pro 11-inch 1st generation (2018)             |A1934  |ipad8,4   |60d442c48f19b751ae356491|
+|iPad Pro 11-inch 1st generation (2018)             |A1934  |ipad8,3   |60d442c58f19b751ae356494|
+|iPad Pro 11-inch 1st generation (2018)             |A1979  |ipad8,4   |61901d9f987cda5f8831abe2|
+|iPad Pro 11-inch 1st generation (2018)             |A1979  |ipad8,3   |60d442c68f19b751ae356496|
+|iPad Pro 11-inch 1st generation WiFi ((2018)       |A1980  |ipad8,2   |61901da3987cda5f8831abed|
+|iPad Pro 11-inch 1st generation WiFi ((2018)       |A1980  |ipad8,1   |60d442cc8f19b751ae3564ad|
+|iPad Pro 11-inch 1st generation (2018)             |A2013  |ipad8,4   |60d442c48f19b751ae35648f|
+|iPad Pro 11-inch 1st generation (2018)             |A2013  |ipad8,3   |61901da2987cda5f8831abec|
+|iPad Pro 11-inch 3rd generation (2018)             |A1934  |ipad8,4   |60d442c48f19b751ae356491|
+|iPad Pro 11-inch 3rd generation (2018)             |A1934  |ipad8,3   |60d442c58f19b751ae356494|
+|iPad Pro 11-inch 3rd generation (2018)             |A1979  |ipad8,4   |61901d9f987cda5f8831abe2|
+|iPad Pro 11-inch 3rd generation (2018)             |A1979  |ipad8,3   |60d442c68f19b751ae356496|
+|iPad Pro 11-inch 3rd generation WiFi ((2018)       |A1980  |ipad8,2   |61901da3987cda5f8831abed|
+|iPad Pro 11-inch 3rd generation WiFi ((2018)       |A1980  |ipad8,1   |60d442cc8f19b751ae3564ad|
+|iPad Pro 11-inch 3rd generation (2018)             |A2013  |ipad8,4   |60d442c48f19b751ae35648f|
+|iPad Pro 11-inch 3rd generation (2018)             |A2013  |ipad8,3   |61901da2987cda5f8831abec|
+|iPad Pro 11-inch 2nd generation (2020)             |A2068  |ipad8,10  |61901d9d987cda5f8831abdb|
+|iPad Pro 11-inch 2nd generation WiFi ((2020)       |A2228  |ipad8,9   |61901d9e987cda5f8831abdc|
+|iPad Pro 11-inch 2nd generation (2020)             |A2230  |ipad8,10  |61901d9e987cda5f8831abdd|
+|iPad Pro 11-inch 2nd generation (2020)             |A2231  |ipad8,10  |61901d9a987cda5f8831abd1|
+|iPad Pro 11-inch 3rd generation WiFi ((2021)       |A2377  |ipad13,4  |61aaba8780e96642bc377430|
+|iPad Pro 12.9-inch 2nd generation WiFi ((2017)     |A1670  |ipad7,1   |60d442f48f19b751ae356545|
+|iPad Pro 12.9-inch 2nd generation (2017)           |A1671  |ipad7,2   |60d442f28f19b751ae35653f|
+|iPad Pro 12.9-inch 2nd generation (2017)           |A1821  |ipad7,2   |60d442c88f19b751ae3564a0|
+|iPad Pro 12.9-inch 3rd generation WiFi ((2018)     |A1876  |ipad8,6   |60d442c68f19b751ae356499|
+|iPad Pro 12.9-inch 3rd generation WiFi ((2018)     |A1876  |ipad8,5   |60d442c78f19b751ae35649c|
+|iPad Pro 12.9-inch 3rd generation (2018)           |A1895  |ipad8,8   |60d442cd8f19b751ae3564b3|
+|iPad Pro 12.9-inch 3rd generation (2018)           |A1895  |ipad8,7   |60d442c88f19b751ae35649e|
+|iPad Pro 12.9-inch 3rd generation (2018)           |A1983  |ipad8,8   |60d442d38f19b751ae3564c7|
+|iPad Pro 12.9-inch 3rd generation (2018)           |A1983  |ipad8,7   |60d442c38f19b751ae35648e|
+|iPad Pro 12.9-inch 3rd generation (2018)           |A2014  |ipad8,8   |60d442c78f19b751ae35649b|
+|iPad Pro 12.9-inch 3rd generation (2018)           |A2014  |ipad8,7   |60d442c78f19b751ae35649a|
+|iPad Pro 12.9-inch 4th generation (2020)           |A2069  |ipad8,12  |60d442a28f19b751ae356411|
+|iPad Pro 12.9-inch 4th generation WiFi ((2020)     |A2229  |ipad8,11  |60d442a38f19b751ae356413|
+|iPad Pro 12.9-inch 4th generation (2020)           |A2232  |ipad8,12  |60d442a38f19b751ae356414|
+|iPad Pro 12.9-inch 4th generation (2020)           |A2233  |ipad8,12  |60d4429c8f19b751ae3563fa|
+|iPad Pro 12.9-inch 5th generation WiFi ((2021)     |A2378  |ipad13,8  |61901d95987cda5f8831abc0|
+|iPad Pro 12.9-inch                                 |A1652  |ipad6,8   |60d443338f19b751ae356632|
+|iPad Pro 12.9-inch WiFi                            |A1584  |ipad6,7   |60d443338f19b751ae356633|
+|iPad Pro 5G 11-inch 3rd generation (2021)          |A2377  |ipad13,4  |61aaba8780e96642bc377430|
+|iPad Pro 5G 11-inch 3rd generation (2021)          |A2459  |ipad13,6  |61901da5987cda5f8831abf5|
+|iPad Pro 5G 11-inch 3rd generation (2021)          |A2460  |ipad13,7  |61aaba8b80e96642bc37743a|
+|iPad Pro 5G 12.9-inch 5th generation WiFi ((2021)  |A2378  |ipad13,8  |61901d95987cda5f8831abc0|
+|iPad Pro 5G 12.9-inch 5th generation (2021)        |A2379  |ipad13,9  |61901d96987cda5f8831abc4|
+|iPad Pro 5G 12.9-inch 5th generation (2021)        |A2461  |ipad13,10 |60d444658f19b751ae356aaf|
+|iPad Pro 5G 12.9-inch 5th generation (2021)        |A2462  |ipad13,11 |61901d97987cda5f8831abc7|
+|iPad Pro 11-inch 5th generation (2021)             |A2301  |ipad13,5  |61aaba8980e96642bc377436|
+|iPad Pro 5G 12.9-inch 5th generation (2021)        |A2379  |ipad13,9  |61901d96987cda5f8831abc4|
+|iPad Pro 9.7-inch WiFi                             |A1673  |ipad6,3   |60d443188f19b751ae3565ce|
+|iPad Pro 9.7-inch                                  |A1674  |ipad6,4   |60d443198f19b751ae3565d1|
+|iPad Pro 9.7-inch                                  |A1675  |ipad6,4   |60d443178f19b751ae3565c9|
+|iPad WiFi                                          |A1219  |ipad1,1   |60d4445e8f19b751ae356a95|
+
