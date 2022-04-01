@@ -11,6 +11,11 @@ Use [TechSpecs Search](https://techspecs.io) or [TechSpecs API](https://develope
 
 |Model (Marketing Name)                             |Version|Machine ID|TechSpecs ID            |
 |---------------------------------------------------|-------|----------|------------------------|
+|iPhone SE 3rd generation 2022                      |A2782  |iphone14,6|623c4bc291c65a4e182fd732|
+|iPhone SE 3rd generation 2022                      |A2783  |iphone14,6|623c4bc291c65a4e182fd732|
+|iPhone SE 3rd generation 2022                      |A2595  |iphone14,6|623c4bc291c65a4e182fd732|
+|iPhone SE 3rd generation 2022                      |A2784  |iphone14,6|623c4bc291c65a4e182fd732|
+|iPhone SE 3rd generation 2022                      |A2785  |iphone14,6|623c4bc291c65a4e182fd732|
 |iPhone 11                                          |A2111  |iphone12,1|60d435288f19b751ae352f03|
 |iPhone 11                                          |A2111  |iphone12,1|60d435288f19b751ae352f03|
 |iPhone 11                                          |A2221  |iphone12,1|60d435328f19b751ae352f2f|
@@ -121,7 +126,7 @@ Use [TechSpecs Search](https://techspecs.io) or [TechSpecs API](https://develope
 |iPhone A1203                                       |A1203  |iphone1,1 |60d4417d8f19b751ae355fc3|
 |iPhone SE 2020                                     |A2275  |iphone12,8|60d436be8f19b751ae353581|
 |iPhone SE 2020                                     |A2296  |iphone12,8|60d4343f8f19b751ae352b45|
-|iPhone SE 2020 2nd generation (2020)               |A2298  |iphone12,8|60d434388f19b751ae352b2a|
+|iPhone SE 2020 2nd generation                      |A2298  |iphone12,8|60d434388f19b751ae352b2a|
 |iPhone SE 2020                                     |A2298  |iphone12,8|60d434368f19b751ae352b21|
 |iPhone SE                                          |A1662  |iphone8,4 |60d43a4f8f19b751ae3543ca|
 |iPhone SE                                          |A1723  |iphone8,4 |60d43a4f8f19b751ae3543cb|
